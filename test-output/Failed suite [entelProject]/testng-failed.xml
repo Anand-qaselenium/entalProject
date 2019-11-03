@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Failed suite [entelProject]]" guice-stage="DEVELOPMENT">
+  <listeners>
+    <listener class-name="com.entel.utilities.Reporting"/>
+  </listeners>
+  <test thread-count="5" name="BankingApp Test(failed)(failed)">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="com.entel.tests.TC_LoginTest">
+        <methods>
+          <include name="launch"/>
+          <include name="tearDown"/>
+          <include name="logintest"/>
+        </methods>
+      </class> <!-- com.entel.tests.TC_LoginTest -->
+    </classes>
+  </test> <!-- BankingApp Test(failed)(failed) -->
+</suite> <!-- Failed suite [Failed suite [entelProject]] -->
