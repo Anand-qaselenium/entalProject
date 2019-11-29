@@ -3,13 +3,13 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.entel.tests.TC_ValidLoginTest">
+      <class name="com.entel.tests.TC_ValidateUserPlan">
         <methods>
           <include name="launch"/>
-          <include name="validCredentialsLogintest"/>
           <include name="tearDown"/>
+          <include name="validCredentialsLogintest"/>
         </methods>
-      </class> <!-- com.entel.tests.TC_ValidLoginTest -->
+      </class> <!-- com.entel.tests.TC_ValidateUserPlan -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

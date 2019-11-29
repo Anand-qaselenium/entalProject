@@ -7,20 +7,13 @@
   <test thread-count="5" name="Tests(failed)">
     <parameter name="browser" value="chrome"/>
     <classes>
-      <class name="com.entel.tests.TC_ValidLoginTest">
+      <class name="com.entel.tests.TC_MyPlanValidation">
         <methods>
           <include name="launch"/>
           <include name="validCredentialsLogintest"/>
           <include name="tearDown"/>
         </methods>
-      </class> <!-- com.entel.tests.TC_ValidLoginTest -->
-      <class name="com.entel.tests.TC_InValidLoginTest">
-        <methods>
-          <include name="launch"/>
-          <include name="tearDown"/>
-          <include name="inValidCredentialsLogintest"/>
-        </methods>
-      </class> <!-- com.entel.tests.TC_InValidLoginTest -->
+      </class> <!-- com.entel.tests.TC_MyPlanValidation -->
     </classes>
   </test> <!-- Tests(failed) -->
 </suite> <!-- Failed suite [entelProject] -->

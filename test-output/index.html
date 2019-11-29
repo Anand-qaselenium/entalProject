@@ -24,7 +24,7 @@
     <div class="top-banner-root">
       <span class="top-banner-title-font">Test results</span>
       <br/>
-      <span class="top-banner-font-1">1 suite, 2 failed tests</span>
+      <span class="top-banner-font-1">1 suite</span>
     </div> <!-- top-banner-root -->
     <div class="navigator-root">
       <div class="navigator-suite-header">
@@ -38,7 +38,7 @@
         <div class="rounded-window">
           <div class="suite-header light-rounded-window-top">
             <a href="#" panel-name="suite-entelProject" class="navigator-link">
-              <span class="suite-name border-failed">entelProject</span>
+              <span class="suite-name border-passed">entelProject</span>
             </a> <!-- navigator-link -->
           </div> <!-- suite-header light-rounded-window-top -->
           <div class="navigator-suite-content">
@@ -49,7 +49,7 @@
               <ul>
                 <li>
                   <a href="#" panel-name="test-xml-entelProject" class="navigator-link ">
-                    <span>E:\Java_Project\Project\entel\entalProject\testNG.xml</span>
+                    <span>E:\Java_Project\Project\entelmiportal\entalProject\testNG.xml</span>
                   </a> <!-- navigator-link  -->
                 </li>
                 <li>
@@ -91,26 +91,21 @@
               <div class="suite-section-content">
                 <ul>
                   <li>
-                    <span class="method-stats">2 methods, 2 failed,   </span>
+                    <span class="method-stats">1 method,   1 passed</span>
                   </li>
                   <li>
-                    <span class="method-list-title failed">Failed methods</span>
-                    <span class="show-or-hide-methods failed">
-                      <a href="#" panel-name="suite-entelProject" class="hide-methods failed suite-entelProject"> (hide)</a> <!-- hide-methods failed suite-entelProject -->
-                      <a href="#" panel-name="suite-entelProject" class="show-methods failed suite-entelProject"> (show)</a> <!-- show-methods failed suite-entelProject -->
+                    <span class="method-list-title passed">Passed methods</span>
+                    <span class="show-or-hide-methods passed">
+                      <a href="#" panel-name="suite-entelProject" class="hide-methods passed suite-entelProject"> (hide)</a> <!-- hide-methods passed suite-entelProject -->
+                      <a href="#" panel-name="suite-entelProject" class="show-methods passed suite-entelProject"> (show)</a> <!-- show-methods passed suite-entelProject -->
                     </span>
-                    <div class="method-list-content failed suite-entelProject">
+                    <div class="method-list-content passed suite-entelProject">
                       <span>
-                        <img src="failed.png" width="3%"/>
-                        <a href="#" panel-name="suite-entelProject" title="com.entel.tests.TC_InValidLoginTest" class="method navigator-link" hash-for-method="inValidCredentialsLogintest">inValidCredentialsLogintest</a> <!-- method navigator-link -->
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-entelProject" title="com.entel.tests.TC_MyPlanValidation" class="method navigator-link" hash-for-method="validCredentialsLogintest">validCredentialsLogintest</a> <!-- method navigator-link -->
                       </span>
                       <br/>
-                      <span>
-                        <img src="failed.png" width="3%"/>
-                        <a href="#" panel-name="suite-entelProject" title="com.entel.tests.TC_ValidLoginTest" class="method navigator-link" hash-for-method="validCredentialsLogintest">validCredentialsLogintest</a> <!-- method navigator-link -->
-                      </span>
-                      <br/>
-                    </div> <!-- method-list-content failed suite-entelProject -->
+                    </div> <!-- method-list-content passed suite-entelProject -->
                   </li>
                 </ul>
               </div> <!-- suite-section-content -->
@@ -122,10 +117,10 @@
     <div class="wrapper">
       <div class="main-panel-root">
         <div panel-name="suite-entelProject" class="panel entelProject">
-          <div class="suite-entelProject-class-failed">
+          <div class="suite-entelProject-class-passed">
             <div class="main-panel-header rounded-window-top">
-              <img src="failed.png"/>
-              <span class="class-name">com.entel.tests.TC_ValidLoginTest</span>
+              <img src="passed.png"/>
+              <span class="class-name">com.entel.tests.TC_MyPlanValidation</span>
             </div> <!-- main-panel-header rounded-window-top -->
             <div class="main-panel-content rounded-window-bottom">
               <div class="method">
@@ -133,39 +128,14 @@
                   <a name="validCredentialsLogintest">
                   </a> <!-- validCredentialsLogintest -->
                   <span class="method-name">validCredentialsLogintest</span>
-                  <div class="stack-trace">java.lang.AssertionError: expected [true] but found [false]
-	at com.entel.tests.BaseClass.checkCondition(BaseClass.java:107)
-	at com.entel.tests.TC_ValidLoginTest.validCredentialsLogintest(TC_ValidLoginTest.java:22)
-... Removed 29 stack frames
-</div> <!-- stack-trace -->
                 </div> <!-- method-content -->
               </div> <!-- method -->
             </div> <!-- main-panel-content rounded-window-bottom -->
-          </div> <!-- suite-entelProject-class-failed -->
-          <div class="suite-entelProject-class-failed">
-            <div class="main-panel-header rounded-window-top">
-              <img src="failed.png"/>
-              <span class="class-name">com.entel.tests.TC_InValidLoginTest</span>
-            </div> <!-- main-panel-header rounded-window-top -->
-            <div class="main-panel-content rounded-window-bottom">
-              <div class="method">
-                <div class="method-content">
-                  <a name="inValidCredentialsLogintest">
-                  </a> <!-- inValidCredentialsLogintest -->
-                  <span class="method-name">inValidCredentialsLogintest</span>
-                  <div class="stack-trace">java.lang.AssertionError: expected [true] but found [false]
-	at com.entel.tests.BaseClass.checkCondition(BaseClass.java:107)
-	at com.entel.tests.TC_InValidLoginTest.inValidCredentialsLogintest(TC_InValidLoginTest.java:24)
-... Removed 29 stack frames
-</div> <!-- stack-trace -->
-                </div> <!-- method-content -->
-              </div> <!-- method -->
-            </div> <!-- main-panel-content rounded-window-bottom -->
-          </div> <!-- suite-entelProject-class-failed -->
+          </div> <!-- suite-entelProject-class-passed -->
         </div> <!-- panel entelProject -->
         <div panel-name="test-xml-entelProject" class="panel">
           <div class="main-panel-header rounded-window-top">
-            <span class="header-content">E:\Java_Project\Project\entel\entalProject\testNG.xml</span>
+            <span class="header-content">E:\Java_Project\Project\entelmiportal\entalProject\testNG.xml</span>
           </div> <!-- main-panel-header rounded-window-top -->
           <div class="main-panel-content rounded-window-bottom">
             <pre>
@@ -178,8 +148,7 @@
   &lt;test thread-count=&quot;5&quot; name=&quot;Tests&quot;&gt;
     &lt;parameter name=&quot;browser&quot; value=&quot;chrome&quot;/&gt;
     &lt;classes&gt;
-      &lt;class name=&quot;com.entel.tests.TC_ValidLoginTest&quot;/&gt;
-      &lt;class name=&quot;com.entel.tests.TC_InValidLoginTest&quot;/&gt;
+      &lt;class name=&quot;com.entel.tests.TC_MyPlanValidation&quot;/&gt;
     &lt;/classes&gt;
   &lt;/test&gt; &lt;!-- Tests --&gt;
 &lt;/suite&gt; &lt;!-- entelProject --&gt;
@@ -193,7 +162,7 @@
           <div class="main-panel-content rounded-window-bottom">
             <ul>
               <li>
-                <span class="test-name">Tests (2 classes)</span>
+                <span class="test-name">Tests (1 class)</span>
               </li>
             </ul>
           </div> <!-- main-panel-content rounded-window-bottom -->
@@ -219,20 +188,16 @@ data.addColumn('number', 'Number');
 data.addColumn('string', 'Method');
 data.addColumn('string', 'Class');
 data.addColumn('number', 'Time (ms)');
-data.addRows(2);
+data.addRows(1);
 data.setCell(0, 0, 0)
 data.setCell(0, 1, 'validCredentialsLogintest')
-data.setCell(0, 2, 'com.entel.tests.TC_ValidLoginTest')
-data.setCell(0, 3, 16586);
-data.setCell(1, 0, 1)
-data.setCell(1, 1, 'inValidCredentialsLogintest')
-data.setCell(1, 2, 'com.entel.tests.TC_InValidLoginTest')
-data.setCell(1, 3, 16498);
+data.setCell(0, 2, 'com.entel.tests.TC_MyPlanValidation')
+data.setCell(0, 3, 83502);
 window.suiteTableData['entelProject']= { tableData: data, tableDiv: 'times-div-entelProject'}
 return data;
 }
               </script>
-              <span class="suite-total-time">Total running time: 33 seconds</span>
+              <span class="suite-total-time">Total running time: 1 minutes</span>
               <div id="times-div-entelProject">
               </div> <!-- times-div-entelProject -->
             </div> <!-- times-div -->
@@ -258,37 +223,18 @@ return data;
           </div> <!-- main-panel-header rounded-window-top -->
           <div class="main-panel-content rounded-window-bottom">
             <div class="chronological-class">
-              <div class="chronological-class-name">com.entel.tests.TC_ValidLoginTest</div> <!-- chronological-class-name -->
+              <div class="chronological-class-name">com.entel.tests.TC_MyPlanValidation</div> <!-- chronological-class-name -->
               <div class="configuration-class before">
                 <span class="method-name">launch(chrome)</span>
                 <span class="method-start">0 ms</span>
               </div> <!-- configuration-class before -->
               <div class="test-method">
-                <img src="failed.png">
-                </img>
                 <span class="method-name">validCredentialsLogintest</span>
-                <span class="method-start">5337 ms</span>
+                <span class="method-start">14475 ms</span>
               </div> <!-- test-method -->
               <div class="configuration-class after">
                 <span class="method-name">tearDown</span>
-                <span class="method-start">21933 ms</span>
-              </div> <!-- configuration-class after -->
-            </div> <!-- chronological-class -->
-            <div class="chronological-class">
-              <div class="chronological-class-name">com.entel.tests.TC_InValidLoginTest</div> <!-- chronological-class-name -->
-              <div class="configuration-class before">
-                <span class="method-name">launch(chrome)</span>
-                <span class="method-start">21988 ms</span>
-              </div> <!-- configuration-class before -->
-              <div class="test-method">
-                <img src="failed.png">
-                </img>
-                <span class="method-name">inValidCredentialsLogintest</span>
-                <span class="method-start">27179 ms</span>
-              </div> <!-- test-method -->
-              <div class="configuration-class after">
-                <span class="method-name">tearDown</span>
-                <span class="method-start">43678 ms</span>
+                <span class="method-start">98010 ms</span>
               </div> <!-- configuration-class after -->
           </div> <!-- main-panel-content rounded-window-bottom -->
         </div> <!-- panel -->

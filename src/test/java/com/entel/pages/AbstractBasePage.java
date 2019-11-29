@@ -1,13 +1,37 @@
 package com.entel.pages;
 
 import java.util.List;
+import org.openqa.selenium.By;
 import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
+import org.openqa.selenium.interactions.Actions;
+import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.ui.ExpectedCondition;
+import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.Select;
+import org.openqa.selenium.support.ui.WebDriverWait;
 
 public abstract class AbstractBasePage {
+	
+	WebDriver ldriver;
+	
+	@FindBy(xpath="//div[@id='entel_loading_box']")
+	WebElement pageLoad;
+	
+	@FindBy(xpath="//ol/li")
+	List<WebElement> breadCrumbList;
+	
+	public void waitTillPageLoads() {
+		boolean flag = false;
+		while(flag) {
+			String str = pageLoad.getAttribute("style");
+			if(str.contains("none")) {
+				sleep(2);
+				flag = true;
+			}
+		}
+	}
 	
 	public boolean isElementDiaplayed(WebElement ele) {
 		try {
@@ -17,6 +41,7 @@ public abstract class AbstractBasePage {
 			return false;
 		}
 	}
+	
 	
 	public void clickAnElement(WebElement ele) {
 		try {
@@ -103,7 +128,43 @@ public abstract class AbstractBasePage {
                  return Boolean.valueOf(((JavascriptExecutor) driver).executeScript("return document.readyState").equals("complete"));
              }
          };
-     }
+	 }
+	 
+	 public void waitForPageLoad() {
+		boolean flag;
+		 do {
+			 flag = (pageLoad.getAttribute("style")).contains("none");
+			 sleep(1);
+		 }while(!(flag));
+		 sleep(1);
+	 }
+		
+	 
+	 public void clickOnLinkWithText(String str) {
+		 pageLoadFinished();
+		 ldriver.findElement(By.linkText(str)).click();
+	 }
+	 
+	 public void moveToLinkWithText(String str) {
+		 pageLoadFinished();
+		 Actions act = new Actions(ldriver);
+		 act.moveByOffset(100, 100).build().perform();
+		 act.moveToElement(ldriver.findElement(By.linkText(str)));
+		 sleep(1); 
+	 }
 
+	 public void navigateToGivenBreadCrumb(String string) {
+		 String currentBreadCrumbName=null;
+		int num = breadCrumbList.size();
+		for(int i=0;i<num;i++) {
+			currentBreadCrumbName = breadCrumbList.get(i).getText();
+			if(currentBreadCrumbName.trim().toLowerCase().equals(string.trim().toLowerCase())) {
+				breadCrumbList.get(i).click();
+				sleep(2);
+				break;
+			}
+		}
+	 }
+	 
 	
 }

@@ -12,12 +12,18 @@ import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.testng.Assert;
 import org.testng.ITestResult;
 import org.testng.annotations.AfterClass;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Parameters;
+
+import com.entel.pages.HomePage;
+import com.entel.pages.LoginFlyout;
+import com.entel.pages.LoginPage;
+import com.entel.pages.MiPlanPage;
 import com.entel.utilities.ReadConfig;
 import com.entel.utilities.XLUtils;
 
@@ -40,7 +46,8 @@ public class BaseClass  {
 		PropertyConfigurator.configure("log4j.properties");
 		if(browser.equals("chrome")) {
 			System.setProperty("webdriver.chrome.driver",chroPath);
-			driver = new ChromeDriver();
+			ChromeOptions options = new ChromeOptions();
+			driver = new ChromeDriver(options);
 		} else {
 			System.setProperty("webdriver.gecko.driver",firefoxPath);
 			driver = new FirefoxDriver();
@@ -116,5 +123,5 @@ public class BaseClass  {
 			e.printStackTrace();
 		}
 	}
-	
+		
 }
