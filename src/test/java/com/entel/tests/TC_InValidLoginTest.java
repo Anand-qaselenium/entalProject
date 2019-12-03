@@ -20,7 +20,7 @@ public class TC_InValidLoginTest extends BaseClass {
 		LoginFlyout lf = new LoginFlyout(driver);
 		HomePage hp = new HomePage(driver);
 		
-		
+		logger.info("Started Test case:- "+tcName );
 		checkCondition(lp.isLoginPageDisplayed(), "Application Launch",tcName);
 		lp.clickOnLogIn();
 		logger.info("Clicking on Login - SUCCESSFUL");

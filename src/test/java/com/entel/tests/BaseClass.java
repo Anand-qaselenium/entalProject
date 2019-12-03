@@ -112,7 +112,6 @@ public class BaseClass  {
 			logger.info(str+" -FAILED");
 			captureScreen(driver,testCaseName);
 			Assert.assertTrue(false);
-			
 		}
 	}
 	
@@ -122,6 +121,23 @@ public class BaseClass  {
 		} catch (InterruptedException e) {
 			e.printStackTrace();
 		}
+	}
+	
+	public void compairString(String str1, String str2, String str3,String testCaseName ) throws IOException {
+		boolean flag = false;
+		if(str1.trim().toLowerCase().equals(str2.trim().toLowerCase())) {
+			flag = true;
+		}
+		
+		if(flag==true) {
+			logger.info(str3+" -SUCCESSFUL");
+			Assert.assertTrue(true);
+		} else {
+			logger.info(str3+" -FAILED");
+			captureScreen(driver,testCaseName);
+			Assert.assertTrue(false);
+		}
+
 	}
 		
 }

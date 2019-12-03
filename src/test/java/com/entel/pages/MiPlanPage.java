@@ -25,11 +25,11 @@ public class MiPlanPage extends AbstractBasePage implements IMiPlan {
 	
 	@Override
 	public boolean isMyPlanPageDisplayed() {
-		boolean flag = false;
-		if(header.getText().trim().contains("Mi Plan")) {
-			flag = true;
-		}
-		return flag;
+			boolean flag = false;
+			if(header.getText().trim().contains("Mi Plan")) {
+				flag = true;
+			}
+			return flag;
 	}
 
 	

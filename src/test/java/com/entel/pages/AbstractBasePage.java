@@ -22,16 +22,16 @@ public abstract class AbstractBasePage {
 	@FindBy(xpath="//ol/li")
 	List<WebElement> breadCrumbList;
 	
-	public void waitTillPageLoads() {
-		boolean flag = false;
-		while(flag) {
-			String str = pageLoad.getAttribute("style");
-			if(str.contains("none")) {
-				sleep(2);
-				flag = true;
-			}
-		}
-	}
+//	public void waitTillPageLoads() {
+//		boolean flag = false;
+//		while(flag) {
+//			String str = pageLoad.getAttribute("style");
+//			if(str.contains("none")) {
+//				sleep(2);
+//				flag = true;
+//			}
+//		}
+//	}
 	
 	public boolean isElementDiaplayed(WebElement ele) {
 		try {
@@ -160,11 +160,32 @@ public abstract class AbstractBasePage {
 			currentBreadCrumbName = breadCrumbList.get(i).getText();
 			if(currentBreadCrumbName.trim().toLowerCase().equals(string.trim().toLowerCase())) {
 				breadCrumbList.get(i).click();
-				sleep(2);
+				waitForPageLoad();
+				sleep(1);
 				break;
 			}
 		}
 	 }
 	 
-	
+	 public boolean isLinkDislayedInBreadCrumb(String string) {
+		boolean flag = false;
+		 String currentBreadCrumbName=null;
+		int num = breadCrumbList.size();
+		for(int i=0;i<num;i++) {
+			currentBreadCrumbName = breadCrumbList.get(i).getText();
+			if(currentBreadCrumbName.trim().toLowerCase().contains(string.trim().toLowerCase())) {
+				flag = true;
+				break;
+			}
+		}
+		return flag;
+	 }
+	 
+	public boolean compairString(String str1, String str2) {
+		boolean flag = false;
+		if(str1.trim().toLowerCase().equals(str2.trim().toLowerCase())) {
+			flag = true;
+		}
+		return flag;
+	}
 }

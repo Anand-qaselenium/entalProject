@@ -8,9 +8,9 @@ import com.entel.pages.LoginFlyout;
 import com.entel.pages.LoginPage;
 
 public class TC_ValidLoginTest extends BaseClass {
-	String phoneNumb = "934056823";
-	String rut = "186628403";
-	String password= "1236";
+	String phoneNumb = "987295964";
+	String rut = "126452276";
+	String password= "7371";
 
 	@Test
 	public void validCredentialsLogintest() throws IOException {
@@ -18,7 +18,8 @@ public class TC_ValidLoginTest extends BaseClass {
 		LoginPage lp = new LoginPage(driver);
 		LoginFlyout lf = new LoginFlyout(driver);
 		HomePage hp = new HomePage(driver);
-
+		
+		logger.info("Started Test case:- "+tcName );
 		checkCondition(lp.isLoginPageDisplayed(), "Application Launch",tcName);
 		lp.clickOnLogIn();
 		logger.info("Clicking on Login - SUCCESSFUL");
@@ -30,7 +31,7 @@ public class TC_ValidLoginTest extends BaseClass {
 		logger.info("Populating Login credentials - SUCCESSFUL");
 		lf.clickOnLoginButton();
 		
-		checkCondition(hp.isHomePageDisplayed(), "Profile Link", tcName);
+		checkCondition(hp.isHomePageDisplayed(), "User Profile", tcName);
 	}
 
 }

@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2019-11-28T18:16:13Z" name="entelProject" finished-at="2019-11-28T18:17:54Z" duration-ms="100558">
+  <suite started-at="2019-12-03T17:59:57Z" name="entelProject" finished-at="2019-12-03T18:01:06Z" duration-ms="69232">
     <groups>
     </groups>
-    <test started-at="2019-11-28T18:16:13Z" name="Tests" finished-at="2019-11-28T18:17:54Z" duration-ms="100558">
-      <class name="com.entel.tests.TC_MyPlanValidation">
-        <test-method is-config="true" signature="launch(java.lang.String)[pri:0, instance:com.entel.tests.TC_MyPlanValidation@623a8092]" started-at="2019-11-28T18:16:13Z" name="launch" finished-at="2019-11-28T18:16:28Z" duration-ms="14469" status="PASS">
+    <test started-at="2019-12-03T17:59:57Z" name="Tests" finished-at="2019-12-03T18:01:06Z" duration-ms="69232">
+      <class name="com.entel.tests.TC_BeneficiousEntelPageValidation">
+        <test-method is-config="true" signature="launch(java.lang.String)[pri:0, instance:com.entel.tests.TC_BeneficiousEntelPageValidation@a1cdc6d]" started-at="2019-12-03T17:59:57Z" name="launch" finished-at="2019-12-03T18:00:06Z" duration-ms="8871" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -18,15 +18,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- launch -->
-        <test-method signature="validCredentialsLogintest()[pri:0, instance:com.entel.tests.TC_MyPlanValidation@623a8092]" started-at="2019-11-28T18:16:28Z" name="validCredentialsLogintest" finished-at="2019-11-28T18:17:51Z" duration-ms="83502" status="PASS">
+        <test-method signature="userAccountNumbers()[pri:0, instance:com.entel.tests.TC_BeneficiousEntelPageValidation@a1cdc6d]" started-at="2019-12-03T18:00:06Z" name="userAccountNumbers" finished-at="2019-12-03T18:01:04Z" duration-ms="58034" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- validCredentialsLogintest -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.entel.tests.TC_MyPlanValidation@623a8092]" started-at="2019-11-28T18:17:51Z" name="tearDown" finished-at="2019-11-28T18:17:54Z" duration-ms="2376" status="PASS">
+        </test-method> <!-- userAccountNumbers -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.entel.tests.TC_BeneficiousEntelPageValidation@a1cdc6d]" started-at="2019-12-03T18:01:04Z" name="tearDown" finished-at="2019-12-03T18:01:06Z" duration-ms="2132" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-      </class> <!-- com.entel.tests.TC_MyPlanValidation -->
+      </class> <!-- com.entel.tests.TC_BeneficiousEntelPageValidation -->
     </test> <!-- Tests -->
   </suite> <!-- entelProject -->
 </testng-results>

@@ -178,9 +178,26 @@ public class HomePage extends AbstractBasePage implements IHomePage {
 		}
 	}
 
-	public boolean verifyGivenPhoneNumber(String updPhoneNumber) {
+	public boolean isGivenNumberDefault(String updPhoneNumber) {
 		 String actPhoneNumb = defaultProfileNumber.getText();
-		 return(actPhoneNumb.trim().equals(updPhoneNumber.trim()));
+		 return(compairString(actPhoneNumb, updPhoneNumber));
 	}
+
+	public void displayUserAccountNumbers() {
+		int num = getProfileCount();
+		for(int i=0;i<num;i++) {
+			String phoneNum = getProfile(i).getPhoneNumber();
+			System.out.println(phoneNum);
+		}
+	}
+
+	public String getDefaultPhoneNumber() {	
+		return defaultProfileNumber.getText();
+	}
+	
+	public String getUserName() {
+		return userProfile.findElement(By.xpath("./p[1]")).getText();
+	}
+	
 	
 }

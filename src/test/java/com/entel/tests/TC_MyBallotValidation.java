@@ -6,21 +6,21 @@ import org.testng.annotations.Test;
 import com.entel.pages.HomePage;
 import com.entel.pages.LoginFlyout;
 import com.entel.pages.LoginPage;
-import com.entel.pages.MiPlanPage;
+import com.entel.pages.MiBoletaPage;
 
-public class TC_MyPlanValidation extends BaseClass {
+public class TC_MyBallotValidation extends BaseClass {
 	String phoneNumb = "987295964";
 	String rut = "126452276";
 	String password= "7371";
 
 	@Test
-	public void validCredentialsLogintest() throws IOException {
+	public void userAccountNumbers() throws IOException {
 		String tcName = new Throwable().getStackTrace()[0].getMethodName();
 		LoginPage lp = new LoginPage(driver);
 		LoginFlyout lf = new LoginFlyout(driver);
 		HomePage hp = new HomePage(driver);
-		MiPlanPage mp = new MiPlanPage(driver);
-
+		MiBoletaPage mb = new MiBoletaPage(driver);
+		
 		logger.info("Started Test case:- "+tcName );
 		checkCondition(lp.isLoginPageDisplayed(), "Application Launch",tcName);
 		lp.clickOnLogIn();
@@ -34,11 +34,9 @@ public class TC_MyPlanValidation extends BaseClass {
 		lf.clickOnLoginButton();
 		
 		checkCondition(hp.isHomePageDisplayed(), "User Profile", tcName);
-		
-		hp.navigateToGivenLeftNavLink("Plan");
-		checkCondition(mp.isMyPlanPageDisplayed(), "Mi Plan", tcName);
-		
-		mp.navigateToGivenBreadCrumb("Inicio");
+		hp.clickOnLinkWithText("Mi Boleta");
+		checkCondition(mb.isMiBoletaPageDisplayed(), "Header", tcName);
+		mb.navigateToGivenBreadCrumb("Inicio");
 		checkCondition(hp.isHomePageDisplayed(), "User Profile", tcName);
 	}
 

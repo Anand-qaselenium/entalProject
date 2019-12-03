@@ -6,13 +6,13 @@ import org.openqa.selenium.support.CacheLookup;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
-import com.entel.pageInterface.IMiBoletaPage;
+import com.entel.pageInterface.IConsumoPage;
 
-public class MiBoletaPage extends AbstractBasePage implements IMiBoletaPage {
+public class ConsumoPage extends AbstractBasePage implements IConsumoPage {
 
 	WebDriver ldriver;
 	
-	public MiBoletaPage(WebDriver rdriver){
+	public ConsumoPage(WebDriver rdriver){
 		ldriver = rdriver;
 		PageFactory.initElements(rdriver, this);
 	}
@@ -20,13 +20,12 @@ public class MiBoletaPage extends AbstractBasePage implements IMiBoletaPage {
 	@FindBy(xpath="//div[contains(@class,'jumbotron')]/p")
 	@CacheLookup
 	WebElement header;
-
-	public boolean isMiBoletaPageDisplayed() {
+	
+	public boolean isConsumoPageDisplayed() {
 		boolean flag = false;
-		if(header.getText().trim().contains("Boletas")) {
+		if(header.getText().trim().contains("Consumo")) {
 			flag = true;
 		}
 		return flag;
 	}
-	
 }
