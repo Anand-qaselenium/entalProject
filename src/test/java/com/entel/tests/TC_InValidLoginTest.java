@@ -9,9 +9,6 @@ import com.entel.pages.LoginFlyout;
 import com.entel.pages.LoginPage;
 
 public class TC_InValidLoginTest extends BaseClass {
-	String phoneNumb = "934056823";
-	String rut = "186628403";
-	String password= "1236";
 
 	@Test
 	public void inValidCredentialsLogintest() throws IOException {
@@ -20,7 +17,7 @@ public class TC_InValidLoginTest extends BaseClass {
 		LoginFlyout lf = new LoginFlyout(driver);
 		HomePage hp = new HomePage(driver);
 		
-		
+		logger.info("Started Test case:- "+tcName );
 		checkCondition(lp.isLoginPageDisplayed(), "Application Launch",tcName);
 		lp.clickOnLogIn();
 		logger.info("Clicking on Login - SUCCESSFUL");
@@ -50,6 +47,7 @@ public class TC_InValidLoginTest extends BaseClass {
 		logger.info("Populating Login credentials - SUCCESSFUL");
 		lf.clickOnLoginButton();
 		checkCondition(lf.isInvalidRUTErrorMessageDisplayed(),"Invalid RUT check",tcName);
+		
 	}
 
 }

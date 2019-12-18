@@ -5,7 +5,9 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
-public class LoginFlyout extends AbstractBasePage {
+import com.entel.pageInterface.ILoginFlyout;
+
+public class LoginFlyout extends AbstractBasePage implements ILoginFlyout {
 
 	WebDriver ldriver;
 	
@@ -58,6 +60,7 @@ public class LoginFlyout extends AbstractBasePage {
 	public void clickOnLoginButton() {
 		sleep(2);
 		clickAnElement(loginButton);
+		waitForPageLoad();
 	}
 
 	public boolean isInvalidUserErrorMessageDisplayed() {
@@ -70,4 +73,5 @@ public class LoginFlyout extends AbstractBasePage {
 		return isElementDiaplayed(rutErrorWarning);
 	}
 		
+	
 }

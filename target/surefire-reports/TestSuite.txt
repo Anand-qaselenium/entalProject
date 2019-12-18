@@ -1,22 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: TestSuite
 -------------------------------------------------------------------------------
-Tests run: 2, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 45.244 sec <<< FAILURE! - in TestSuite
-validCredentialsLogintest(com.entel.tests.TC_ValidLoginTest)  Time elapsed: 16.556 sec  <<< FAILURE!
-java.lang.AssertionError: expected [true] but found [false]
-	at org.testng.Assert.fail(Assert.java:96)
-	at org.testng.Assert.failNotEquals(Assert.java:776)
-	at org.testng.Assert.assertTrue(Assert.java:44)
-	at org.testng.Assert.assertTrue(Assert.java:54)
-	at com.entel.tests.BaseClass.checkCondition(BaseClass.java:107)
-	at com.entel.tests.TC_ValidLoginTest.validCredentialsLogintest(TC_ValidLoginTest.java:22)
-
-inValidCredentialsLogintest(com.entel.tests.TC_InValidLoginTest)  Time elapsed: 16.547 sec  <<< FAILURE!
-java.lang.AssertionError: expected [true] but found [false]
-	at org.testng.Assert.fail(Assert.java:96)
-	at org.testng.Assert.failNotEquals(Assert.java:776)
-	at org.testng.Assert.assertTrue(Assert.java:44)
-	at org.testng.Assert.assertTrue(Assert.java:54)
-	at com.entel.tests.BaseClass.checkCondition(BaseClass.java:107)
-	at com.entel.tests.TC_InValidLoginTest.inValidCredentialsLogintest(TC_InValidLoginTest.java:24)
-
+Tests run: 10, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 645.711 sec - in TestSuite

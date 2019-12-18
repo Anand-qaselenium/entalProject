@@ -6,7 +6,9 @@ import org.openqa.selenium.support.CacheLookup;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
-public class LoginPage extends AbstractBasePage {
+import com.entel.pageInterface.ILoginPage;
+
+public class LoginPage extends AbstractBasePage implements ILoginPage {
 
 	WebDriver ldriver;
 	

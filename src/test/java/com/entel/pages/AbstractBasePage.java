@@ -1,13 +1,50 @@
 package com.entel.pages;
 
+import java.io.File;
+import java.io.IOException;
 import java.util.List;
+
+import org.apache.commons.io.FileUtils;
+import org.apache.log4j.Logger;
+import org.openqa.selenium.By;
 import org.openqa.selenium.JavascriptExecutor;
+import org.openqa.selenium.OutputType;
+import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
+import org.openqa.selenium.interactions.Actions;
+import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.ui.ExpectedCondition;
+import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.Select;
+import org.openqa.selenium.support.ui.WebDriverWait;
+import org.testng.Assert;
 
 public abstract class AbstractBasePage {
+	
+	WebDriver ldriver;
+	
+	@FindBy(xpath="//div[@id='entel_loading_box']")
+	WebElement pageLoad;
+	
+	@FindBy(xpath="//a[@id='menu_header_cerrarsesion']")
+	WebElement logoutLink;
+	
+	
+	
+	@FindBy(xpath="//ol/li")
+	List<WebElement> breadCrumbList;
+	
+//	public void waitTillPageLoads() {
+//		boolean flag = false;
+//		while(flag) {
+//			String str = pageLoad.getAttribute("style");
+//			if(str.contains("none")) {
+//				sleep(2);
+//				flag = true;
+//			}
+//		}
+//	}
 	
 	public boolean isElementDiaplayed(WebElement ele) {
 		try {
@@ -17,6 +54,7 @@ public abstract class AbstractBasePage {
 			return false;
 		}
 	}
+	
 	
 	public void clickAnElement(WebElement ele) {
 		try {
@@ -103,7 +141,92 @@ public abstract class AbstractBasePage {
                  return Boolean.valueOf(((JavascriptExecutor) driver).executeScript("return document.readyState").equals("complete"));
              }
          };
-     }
+	 }
+	 
+	 public void waitForPageLoad() {
+		boolean flag;
+		 do {
+			 flag = (pageLoad.getAttribute("style")).contains("none");
+			 sleep(1);
+		 }while(!(flag));
+		 sleep(1);
+	 }
+		
+	 
+	 public void clickOnLinkWithText(String str) {
+		 pageLoadFinished();
+		 ldriver.findElement(By.linkText(str)).click();
+	 }
+	 
+	 public void moveToLinkWithText(String str) {
+		 pageLoadFinished();
+		 Actions act = new Actions(ldriver);
+		 act.moveByOffset(100, 100).build().perform();
+		 act.moveToElement(ldriver.findElement(By.linkText(str)));
+		 sleep(1); 
+	 }
 
+	 public void navigateToGivenBreadCrumb(String string) {
+		 String currentBreadCrumbName=null;
+		int num = breadCrumbList.size();
+		for(int i=0;i<num;i++) {
+			currentBreadCrumbName = breadCrumbList.get(i).getText();
+			if(currentBreadCrumbName.trim().toLowerCase().equals(string.trim().toLowerCase())) {
+				breadCrumbList.get(i).click();
+				waitForPageLoad();
+				sleep(1);
+				break;
+			}
+		}
+	 }
+	 
+	 public boolean isLinkDislayedInBreadCrumb(String string) {
+		boolean flag = false;
+		 String currentBreadCrumbName=null;
+		int num = breadCrumbList.size();
+		for(int i=0;i<num;i++) {
+			currentBreadCrumbName = breadCrumbList.get(i).getText();
+			if(currentBreadCrumbName.trim().toLowerCase().contains(string.trim().toLowerCase())) {
+				flag = true;
+				break;
+			}
+		}
+		return flag;
+	 }
+	 
+	public boolean compairString(String str1, String str2) {
+		boolean flag = false;
+		if(str1.trim().toLowerCase().equals(str2.trim().toLowerCase())) {
+			flag = true;
+		}
+		return flag;
+	}
 	
+	public void clickOnLogout() {
+		logoutLink.click();
+		sleep(2);
+	//	waitForPageLoad();
+	}
+	
+	public void captureScreen(WebDriver driver, String eleName) throws IOException {
+		TakesScreenshot ts = (TakesScreenshot) driver;
+		File source = ts.getScreenshotAs(OutputType.FILE);
+		File target = new File(System.getProperty("user.dir") +"/screenshots/"+ eleName + ".png");
+		FileUtils.copyFile(source, target);
+		System.out.println("Screenshot taken");
+	}
+	
+	public void checkElement(boolean flag, String eleName){
+		sleep(2);
+		if(flag==true) {
+			Assert.assertTrue(true);
+		} else {
+			try {
+				captureScreen(ldriver,eleName);
+			} catch (IOException e) {
+				e.printStackTrace();
+			}
+			Assert.assertTrue(false);
+		}
+	}
 }
