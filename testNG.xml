@@ -11,8 +11,7 @@
 	<test name="Tests">
 		<parameter name="browser" value="chrome" />
 		<classes>	
-			<class name="com.entel.tests.TC_ValidLoginTest" />
-			<class name="com.entel.tests.TC_InValidLoginTest" />
+			<class name="com.entel.tests.TC_BolsasPageValidation" />
 		</classes>
 	</test>
 

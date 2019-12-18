@@ -7,14 +7,13 @@ import org.apache.commons.io.FileUtils;
 import org.apache.commons.lang3.RandomStringUtils;
 import org.apache.log4j.Logger;
 import org.apache.log4j.PropertyConfigurator;
-import org.junit.rules.TestName;
 import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.testng.Assert;
-import org.testng.ITestResult;
 import org.testng.annotations.AfterClass;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Parameters;
@@ -28,6 +27,15 @@ public class BaseClass  {
 	String baseURL = rg.getConfigValue("baseURL");
 	String chroPath = rg.getConfigValue("chromePath");
 	String firefoxPath = rg.getConfigValue("firefoxPath");
+	
+	String phoneNumb = rg.getConfigValue("reg_phoneNumb");
+	String rut = rg.getConfigValue("reg_rut");
+	String password= rg.getConfigValue("reg_password");
+	
+	String phoneNumb_user = rg.getConfigValue("user_phoneNumb");
+	String rut_user = rg.getConfigValue("user_rut");
+	String password_user= rg.getConfigValue("user_password");
+	
 	public static Logger logger;
 	public static WebDriver driver;
 	
@@ -40,7 +48,8 @@ public class BaseClass  {
 		PropertyConfigurator.configure("log4j.properties");
 		if(browser.equals("chrome")) {
 			System.setProperty("webdriver.chrome.driver",chroPath);
-			driver = new ChromeDriver();
+			ChromeOptions options = new ChromeOptions();
+			driver = new ChromeDriver(options);
 		} else {
 			System.setProperty("webdriver.gecko.driver",firefoxPath);
 			driver = new FirefoxDriver();
@@ -97,7 +106,7 @@ public class BaseClass  {
 	}
 	
 	public void checkCondition(boolean flag, String str, String testCaseName) throws IOException {
-		sleep(6);
+		sleep(4);
 		if(flag==true) {
 			logger.info(str+" -SUCCESSFUL");
 			Assert.assertTrue(true);
@@ -105,7 +114,6 @@ public class BaseClass  {
 			logger.info(str+" -FAILED");
 			captureScreen(driver,testCaseName);
 			Assert.assertTrue(false);
-			
 		}
 	}
 	
@@ -117,4 +125,21 @@ public class BaseClass  {
 		}
 	}
 	
+	public void compairString(String str1, String str2, String str3,String testCaseName ) throws IOException {
+		boolean flag = false;
+		if(str1.trim().toLowerCase().equals(str2.trim().toLowerCase())) {
+			flag = true;
+		}
+		
+		if(flag==true) {
+			logger.info(str3+" -SUCCESSFUL");
+			Assert.assertTrue(true);
+		} else {
+			logger.info(str3+" -FAILED");
+			captureScreen(driver,testCaseName);
+			Assert.assertTrue(false);
+		}
+
+	}
+		
 }
