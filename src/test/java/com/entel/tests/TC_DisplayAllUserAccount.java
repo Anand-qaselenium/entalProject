@@ -8,9 +8,6 @@ import com.entel.pages.LoginFlyout;
 import com.entel.pages.LoginPage;
 
 public class TC_DisplayAllUserAccount extends BaseClass {
-	String phoneNumb = "987295964";
-	String rut = "126452276";
-	String password= "7371";
 
 	@Test
 	public void userAccountNumbers() throws IOException {
@@ -33,10 +30,9 @@ public class TC_DisplayAllUserAccount extends BaseClass {
 		
 		checkCondition(hp.isHomePageDisplayed(), "User Profile", tcName);
 		String phNum = hp.getDefaultPhoneNumber();
-		hp.expandProfile();
 		hp.displayUserAccountNumbers();
-		hp.collapseProfile();
 		checkCondition(hp.isGivenNumberDefault(phNum), "Default Profile Number", tcName);
+		hp.clickOnLogout();
 	}
 
 }

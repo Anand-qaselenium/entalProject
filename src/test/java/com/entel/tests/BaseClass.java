@@ -7,7 +7,6 @@ import org.apache.commons.io.FileUtils;
 import org.apache.commons.lang3.RandomStringUtils;
 import org.apache.log4j.Logger;
 import org.apache.log4j.PropertyConfigurator;
-import org.junit.rules.TestName;
 import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
@@ -15,15 +14,9 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.testng.Assert;
-import org.testng.ITestResult;
 import org.testng.annotations.AfterClass;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Parameters;
-
-import com.entel.pages.HomePage;
-import com.entel.pages.LoginFlyout;
-import com.entel.pages.LoginPage;
-import com.entel.pages.MiPlanPage;
 import com.entel.utilities.ReadConfig;
 import com.entel.utilities.XLUtils;
 
@@ -34,6 +27,15 @@ public class BaseClass  {
 	String baseURL = rg.getConfigValue("baseURL");
 	String chroPath = rg.getConfigValue("chromePath");
 	String firefoxPath = rg.getConfigValue("firefoxPath");
+	
+	String phoneNumb = rg.getConfigValue("reg_phoneNumb");
+	String rut = rg.getConfigValue("reg_rut");
+	String password= rg.getConfigValue("reg_password");
+	
+	String phoneNumb_user = rg.getConfigValue("user_phoneNumb");
+	String rut_user = rg.getConfigValue("user_rut");
+	String password_user= rg.getConfigValue("user_password");
+	
 	public static Logger logger;
 	public static WebDriver driver;
 	
@@ -104,7 +106,7 @@ public class BaseClass  {
 	}
 	
 	public void checkCondition(boolean flag, String str, String testCaseName) throws IOException {
-		sleep(6);
+		sleep(4);
 		if(flag==true) {
 			logger.info(str+" -SUCCESSFUL");
 			Assert.assertTrue(true);

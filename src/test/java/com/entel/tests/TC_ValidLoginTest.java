@@ -8,9 +8,6 @@ import com.entel.pages.LoginFlyout;
 import com.entel.pages.LoginPage;
 
 public class TC_ValidLoginTest extends BaseClass {
-	String phoneNumb = "987295964";
-	String rut = "126452276";
-	String password= "7371";
 
 	@Test
 	public void validCredentialsLogintest() throws IOException {
@@ -32,6 +29,7 @@ public class TC_ValidLoginTest extends BaseClass {
 		lf.clickOnLoginButton();
 		
 		checkCondition(hp.isHomePageDisplayed(), "User Profile", tcName);
+		hp.clickOnLogout();
 	}
 
 }

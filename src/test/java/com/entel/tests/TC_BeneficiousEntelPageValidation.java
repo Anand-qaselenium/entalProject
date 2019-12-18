@@ -12,12 +12,9 @@ import com.entel.pages.LoginPage;
 import com.entel.pages.MiBoletaPage;
 
 public class TC_BeneficiousEntelPageValidation extends BaseClass {
-	String phoneNumb = "987295964";
-	String rut = "126452276";
-	String password= "7371";
 
 	@Test
-	public void userAccountNumbers() throws IOException {
+	public void beneficiousEntelPageValidation() throws IOException {
 		String tcName = new Throwable().getStackTrace()[0].getMethodName();
 		LoginPage lp = new LoginPage(driver);
 		LoginFlyout lf = new LoginFlyout(driver);
@@ -33,6 +30,7 @@ public class TC_BeneficiousEntelPageValidation extends BaseClass {
 		lf.setPhoneNumber(phoneNumb);
 		lf.setRUTNum(rut);
 		lf.setPassword(password);
+
 		logger.info("Populating Login credentials - SUCCESSFUL");
 		lf.clickOnLoginButton();
 		
@@ -41,6 +39,7 @@ public class TC_BeneficiousEntelPageValidation extends BaseClass {
 		checkCondition(bp.isBeneficiousEntelPageDisplayed(), "Beneficious BreadCrumb", tcName);
 		bp.navigateToGivenBreadCrumb("Inicio");
 		checkCondition(hp.isHomePageDisplayed(), "User Profile", tcName);
+		hp.clickOnLogout();
 	}
 
 }

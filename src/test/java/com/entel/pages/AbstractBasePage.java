@@ -1,8 +1,15 @@
 package com.entel.pages;
 
+import java.io.File;
+import java.io.IOException;
 import java.util.List;
+
+import org.apache.commons.io.FileUtils;
+import org.apache.log4j.Logger;
 import org.openqa.selenium.By;
 import org.openqa.selenium.JavascriptExecutor;
+import org.openqa.selenium.OutputType;
+import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.interactions.Actions;
@@ -11,6 +18,7 @@ import org.openqa.selenium.support.ui.ExpectedCondition;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.Select;
 import org.openqa.selenium.support.ui.WebDriverWait;
+import org.testng.Assert;
 
 public abstract class AbstractBasePage {
 	
@@ -18,6 +26,11 @@ public abstract class AbstractBasePage {
 	
 	@FindBy(xpath="//div[@id='entel_loading_box']")
 	WebElement pageLoad;
+	
+	@FindBy(xpath="//a[@id='menu_header_cerrarsesion']")
+	WebElement logoutLink;
+	
+	
 	
 	@FindBy(xpath="//ol/li")
 	List<WebElement> breadCrumbList;
@@ -187,5 +200,33 @@ public abstract class AbstractBasePage {
 			flag = true;
 		}
 		return flag;
+	}
+	
+	public void clickOnLogout() {
+		logoutLink.click();
+		sleep(2);
+	//	waitForPageLoad();
+	}
+	
+	public void captureScreen(WebDriver driver, String eleName) throws IOException {
+		TakesScreenshot ts = (TakesScreenshot) driver;
+		File source = ts.getScreenshotAs(OutputType.FILE);
+		File target = new File(System.getProperty("user.dir") +"/screenshots/"+ eleName + ".png");
+		FileUtils.copyFile(source, target);
+		System.out.println("Screenshot taken");
+	}
+	
+	public void checkElement(boolean flag, String eleName){
+		sleep(2);
+		if(flag==true) {
+			Assert.assertTrue(true);
+		} else {
+			try {
+				captureScreen(ldriver,eleName);
+			} catch (IOException e) {
+				e.printStackTrace();
+			}
+			Assert.assertTrue(false);
+		}
 	}
 }

@@ -864,3 +864,1032 @@
 2019-12-03 23:30:43,285 [main] INFO entalProject - User Profile -SUCCESSFUL
 2019-12-03 23:30:51,133 [main] INFO entalProject - Header -SUCCESSFUL
 2019-12-03 23:31:04,789 [main] INFO entalProject - User Profile -SUCCESSFUL
+2019-12-04 22:25:00,725 [main] INFO entalProject - Started Test case:- userAccountNumbers
+2019-12-04 22:25:06,812 [main] INFO entalProject - Application Launch -SUCCESSFUL
+2019-12-04 22:25:06,899 [main] INFO entalProject - Clicking on Login - SUCCESSFUL
+2019-12-04 22:25:14,982 [main] INFO entalProject - Login Flyout -SUCCESSFUL
+2019-12-04 22:25:15,552 [main] INFO entalProject - Populating Login credentials - SUCCESSFUL
+2019-12-04 22:25:38,167 [main] INFO entalProject - User Profile -SUCCESSFUL
+2019-12-04 22:25:45,342 [main] INFO entalProject - Header -SUCCESSFUL
+2019-12-04 22:25:58,988 [main] INFO entalProject - User Profile -SUCCESSFUL
+2019-12-04 22:40:06,932 [main] INFO entalProject - Started Test case:- userAccountNumbers
+2019-12-04 22:40:12,985 [main] INFO entalProject - Application Launch -SUCCESSFUL
+2019-12-04 22:40:13,128 [main] INFO entalProject - Clicking on Login - SUCCESSFUL
+2019-12-04 22:40:21,204 [main] INFO entalProject - Login Flyout -SUCCESSFUL
+2019-12-04 22:40:21,767 [main] INFO entalProject - Populating Login credentials - SUCCESSFUL
+2019-12-04 22:40:47,322 [main] INFO entalProject - User Profile -SUCCESSFUL
+2019-12-04 22:40:54,969 [main] INFO entalProject - Header -SUCCESSFUL
+2019-12-04 22:41:09,019 [main] INFO entalProject - User Profile -SUCCESSFUL
+2019-12-04 23:00:34,948 [main] INFO entalProject - Started Test case:- userAccountNumbers
+2019-12-04 23:00:41,004 [main] INFO entalProject - Application Launch -SUCCESSFUL
+2019-12-04 23:00:41,191 [main] INFO entalProject - Clicking on Login - SUCCESSFUL
+2019-12-04 23:00:49,305 [main] INFO entalProject - Login Flyout -SUCCESSFUL
+2019-12-04 23:00:49,793 [main] INFO entalProject - Populating Login credentials - SUCCESSFUL
+2019-12-04 23:01:12,165 [main] INFO entalProject - User Profile -SUCCESSFUL
+2019-12-04 23:01:19,409 [main] INFO entalProject - Header -SUCCESSFUL
+2019-12-04 23:01:33,148 [main] INFO entalProject - User Profile -SUCCESSFUL
+2019-12-04 23:10:15,880 [main] INFO entalProject - Started Test case:- userAccountNumbers
+2019-12-04 23:10:21,933 [main] INFO entalProject - Application Launch -SUCCESSFUL
+2019-12-04 23:10:22,097 [main] INFO entalProject - Clicking on Login - SUCCESSFUL
+2019-12-04 23:10:30,239 [main] INFO entalProject - Login Flyout -SUCCESSFUL
+2019-12-04 23:10:30,983 [main] INFO entalProject - Populating Login credentials - SUCCESSFUL
+2019-12-04 23:10:55,058 [main] INFO entalProject - User Profile -SUCCESSFUL
+2019-12-04 23:11:03,879 [main] INFO entalProject - Header -SUCCESSFUL
+2019-12-04 23:11:18,832 [main] INFO entalProject - User Profile -SUCCESSFUL
+2019-12-08 19:44:06,092 [main] INFO entalProject - Started Test case:- userAccountNumbers
+2019-12-08 19:44:12,231 [main] INFO entalProject - Application Launch -SUCCESSFUL
+2019-12-08 19:44:12,350 [main] INFO entalProject - Clicking on Login - SUCCESSFUL
+2019-12-08 19:44:20,458 [main] INFO entalProject - Login Flyout -SUCCESSFUL
+2019-12-08 19:44:21,067 [main] INFO entalProject - Populating Login credentials - SUCCESSFUL
+2019-12-08 19:44:47,411 [main] INFO entalProject - User Profile -SUCCESSFUL
+2019-12-08 19:44:59,537 [main] INFO entalProject - Beneficious BreadCrumb -SUCCESSFUL
+2019-12-08 19:45:15,191 [main] INFO entalProject - User Profile -SUCCESSFUL
+2019-12-08 19:45:30,280 [main] INFO entalProject - Started Test case:- userAccountNumbers
+2019-12-08 19:45:36,322 [main] INFO entalProject - Application Launch -SUCCESSFUL
+2019-12-08 19:45:36,514 [main] INFO entalProject - Clicking on Login - SUCCESSFUL
+2019-12-08 19:45:44,600 [main] INFO entalProject - Login Flyout -SUCCESSFUL
+2019-12-08 19:45:45,142 [main] INFO entalProject - Populating Login credentials - SUCCESSFUL
+2019-12-08 19:46:12,706 [main] INFO entalProject - User Profile -SUCCESSFUL
+2019-12-08 19:46:21,282 [main] INFO entalProject - Header -SUCCESSFUL
+2019-12-08 19:46:36,089 [main] INFO entalProject - User Profile -SUCCESSFUL
+2019-12-08 19:46:50,881 [main] INFO entalProject - Started Test case:- userAccountNumbers
+2019-12-08 19:46:56,911 [main] INFO entalProject - Application Launch -SUCCESSFUL
+2019-12-08 19:46:57,077 [main] INFO entalProject - Clicking on Login - SUCCESSFUL
+2019-12-08 19:47:05,154 [main] INFO entalProject - Login Flyout -SUCCESSFUL
+2019-12-08 19:47:05,720 [main] INFO entalProject - Populating Login credentials - SUCCESSFUL
+2019-12-08 19:47:31,413 [main] INFO entalProject - User Profile -SUCCESSFUL
+2019-12-08 19:47:42,579 [main] INFO entalProject - Header -SUCCESSFUL
+2019-12-08 19:47:57,126 [main] INFO entalProject - User Profile -SUCCESSFUL
+2019-12-08 19:48:07,845 [main] INFO entalProject - Started Test case:- userAccountNumbers
+2019-12-08 19:48:13,876 [main] INFO entalProject - Application Launch -SUCCESSFUL
+2019-12-08 19:48:14,082 [main] INFO entalProject - Clicking on Login - SUCCESSFUL
+2019-12-08 19:48:22,180 [main] INFO entalProject - Login Flyout -SUCCESSFUL
+2019-12-08 19:48:22,727 [main] INFO entalProject - Populating Login credentials - SUCCESSFUL
+2019-12-08 19:48:49,426 [main] INFO entalProject - User Profile -SUCCESSFUL
+2019-12-08 19:49:00,190 [main] INFO entalProject - Default Profile Number -SUCCESSFUL
+2019-12-08 19:49:13,157 [main] INFO entalProject - Started Test case:- userAccountNumbers
+2019-12-08 19:49:19,188 [main] INFO entalProject - Application Launch -SUCCESSFUL
+2019-12-08 19:49:19,302 [main] INFO entalProject - Clicking on Login - SUCCESSFUL
+2019-12-08 19:49:27,423 [main] INFO entalProject - Login Flyout -SUCCESSFUL
+2019-12-08 19:49:27,980 [main] INFO entalProject - Populating Login credentials - SUCCESSFUL
+2019-12-08 19:49:54,692 [main] INFO entalProject - User Profile -SUCCESSFUL
+2019-12-08 19:50:05,855 [main] INFO entalProject - Header -SUCCESSFUL
+2019-12-08 19:50:20,939 [main] INFO entalProject - User Profile -SUCCESSFUL
+2019-12-08 19:50:32,900 [main] INFO entalProject - Started Test case:- inValidCredentialsLogintest
+2019-12-08 19:50:38,940 [main] INFO entalProject - Application Launch -SUCCESSFUL
+2019-12-08 19:50:39,096 [main] INFO entalProject - Clicking on Login - SUCCESSFUL
+2019-12-08 19:50:47,191 [main] INFO entalProject - Login Flyout -SUCCESSFUL
+2019-12-08 19:50:47,191 [main] INFO entalProject - Invalid Phone number check
+2019-12-08 19:50:47,806 [main] INFO entalProject - Populating Login credentials - SUCCESSFUL
+2019-12-08 19:51:12,620 [main] INFO entalProject - Started Test case:- userAccountNumbers
+2019-12-08 19:51:18,657 [main] INFO entalProject - Application Launch -SUCCESSFUL
+2019-12-08 19:51:18,771 [main] INFO entalProject - Clicking on Login - SUCCESSFUL
+2019-12-08 19:51:26,889 [main] INFO entalProject - Login Flyout -SUCCESSFUL
+2019-12-08 19:51:27,447 [main] INFO entalProject - Populating Login credentials - SUCCESSFUL
+2019-12-08 19:51:52,175 [main] INFO entalProject - Started Test case:- validCredentialsLogintest
+2019-12-08 19:51:58,256 [main] INFO entalProject - Application Launch -SUCCESSFUL
+2019-12-08 19:51:58,453 [main] INFO entalProject - Clicking on Login - SUCCESSFUL
+2019-12-08 19:52:06,573 [main] INFO entalProject - Login Flyout -SUCCESSFUL
+2019-12-08 19:52:07,244 [main] INFO entalProject - Populating Login credentials - SUCCESSFUL
+2019-12-08 19:52:32,562 [main] INFO entalProject - Started Test case:- userAccountNumbers
+2019-12-08 19:52:38,598 [main] INFO entalProject - Application Launch -SUCCESSFUL
+2019-12-08 19:52:38,724 [main] INFO entalProject - Clicking on Login - SUCCESSFUL
+2019-12-08 19:52:46,831 [main] INFO entalProject - Login Flyout -SUCCESSFUL
+2019-12-08 19:52:47,341 [main] INFO entalProject - Populating Login credentials - SUCCESSFUL
+2019-12-08 19:53:12,859 [main] INFO entalProject - Started Test case:- userAccountNumbers
+2019-12-08 19:53:18,894 [main] INFO entalProject - Application Launch -SUCCESSFUL
+2019-12-08 19:53:19,064 [main] INFO entalProject - Clicking on Login - SUCCESSFUL
+2019-12-08 19:53:27,142 [main] INFO entalProject - Login Flyout -SUCCESSFUL
+2019-12-08 19:53:27,663 [main] INFO entalProject - Populating Login credentials - SUCCESSFUL
+2019-12-08 19:53:53,217 [main] INFO entalProject - Started Test case:- validCredentialsLogintest
+2019-12-08 19:53:59,245 [main] INFO entalProject - Application Launch -SUCCESSFUL
+2019-12-08 19:53:59,352 [main] INFO entalProject - Clicking on Login - SUCCESSFUL
+2019-12-08 19:54:07,451 [main] INFO entalProject - Login Flyout -SUCCESSFUL
+2019-12-08 19:54:07,994 [main] INFO entalProject - Populating Login credentials - SUCCESSFUL
+2019-12-08 20:00:27,096 [main] INFO entalProject - Started Test case:- userAccountNumbers
+2019-12-08 20:00:33,151 [main] INFO entalProject - Application Launch -SUCCESSFUL
+2019-12-08 20:00:33,349 [main] INFO entalProject - Clicking on Login - SUCCESSFUL
+2019-12-08 20:00:41,461 [main] INFO entalProject - Login Flyout -SUCCESSFUL
+2019-12-08 20:00:41,981 [main] INFO entalProject - Populating Login credentials - SUCCESSFUL
+2019-12-08 20:01:06,380 [main] INFO entalProject - Started Test case:- userAccountNumbers
+2019-12-08 20:01:12,446 [main] INFO entalProject - Application Launch -SUCCESSFUL
+2019-12-08 20:01:12,629 [main] INFO entalProject - Clicking on Login - SUCCESSFUL
+2019-12-08 20:01:20,738 [main] INFO entalProject - Login Flyout -SUCCESSFUL
+2019-12-08 20:01:21,431 [main] INFO entalProject - Populating Login credentials - SUCCESSFUL
+2019-12-08 20:03:44,595 [main] INFO entalProject - Started Test case:- userAccountNumbers
+2019-12-08 20:03:50,651 [main] INFO entalProject - Application Launch -SUCCESSFUL
+2019-12-08 20:03:50,799 [main] INFO entalProject - Clicking on Login - SUCCESSFUL
+2019-12-08 20:03:58,942 [main] INFO entalProject - Login Flyout -SUCCESSFUL
+2019-12-08 20:03:59,467 [main] INFO entalProject - Populating Login credentials - SUCCESSFUL
+2019-12-08 20:05:54,297 [main] INFO entalProject - Started Test case:- userAccountNumbers
+2019-12-08 20:06:00,354 [main] INFO entalProject - Application Launch -SUCCESSFUL
+2019-12-08 20:06:00,489 [main] INFO entalProject - Clicking on Login - SUCCESSFUL
+2019-12-08 20:06:08,587 [main] INFO entalProject - Login Flyout -SUCCESSFUL
+2019-12-08 20:06:09,206 [main] INFO entalProject - Populating Login credentials - SUCCESSFUL
+2019-12-08 20:06:49,317 [main] INFO entalProject - Started Test case:- userAccountNumbers
+2019-12-08 20:06:55,356 [main] INFO entalProject - Application Launch -SUCCESSFUL
+2019-12-08 20:06:55,562 [main] INFO entalProject - Clicking on Login - SUCCESSFUL
+2019-12-08 20:07:03,666 [main] INFO entalProject - Login Flyout -SUCCESSFUL
+2019-12-08 20:07:04,199 [main] INFO entalProject - Populating Login credentials - SUCCESSFUL
+2019-12-08 20:12:34,496 [main] INFO entalProject - Started Test case:- userAccountNumbers
+2019-12-08 20:12:40,552 [main] INFO entalProject - Application Launch -SUCCESSFUL
+2019-12-08 20:12:40,734 [main] INFO entalProject - Clicking on Login - SUCCESSFUL
+2019-12-08 20:12:48,820 [main] INFO entalProject - Login Flyout -SUCCESSFUL
+2019-12-08 20:12:49,423 [main] INFO entalProject - Populating Login credentials - SUCCESSFUL
+2019-12-08 20:13:57,917 [main] INFO entalProject - Started Test case:- userAccountNumbers
+2019-12-08 20:14:03,971 [main] INFO entalProject - Application Launch -SUCCESSFUL
+2019-12-08 20:14:04,115 [main] INFO entalProject - Clicking on Login - SUCCESSFUL
+2019-12-08 20:14:12,249 [main] INFO entalProject - Login Flyout -SUCCESSFUL
+2019-12-08 20:14:12,825 [main] INFO entalProject - Populating Login credentials - SUCCESSFUL
+2019-12-08 20:14:38,417 [main] INFO entalProject - Started Test case:- userAccountNumbers
+2019-12-08 20:15:24,225 [main] INFO entalProject - Started Test case:- userAccountNumbers
+2019-12-08 20:15:30,281 [main] INFO entalProject - Application Launch -SUCCESSFUL
+2019-12-08 20:15:30,459 [main] INFO entalProject - Clicking on Login - SUCCESSFUL
+2019-12-08 20:15:38,607 [main] INFO entalProject - Login Flyout -SUCCESSFUL
+2019-12-08 20:15:39,279 [main] INFO entalProject - Populating Login credentials - SUCCESSFUL
+2019-12-08 20:16:06,763 [main] INFO entalProject - User Profile -SUCCESSFUL
+2019-12-08 20:16:19,060 [main] INFO entalProject - Beneficious BreadCrumb -SUCCESSFUL
+2019-12-08 20:16:34,450 [main] INFO entalProject - User Profile -SUCCESSFUL
+2019-12-08 20:16:46,507 [main] INFO entalProject - Started Test case:- userAccountNumbers
+2019-12-08 20:16:52,581 [main] INFO entalProject - Application Launch -SUCCESSFUL
+2019-12-08 20:16:52,712 [main] INFO entalProject - Clicking on Login - SUCCESSFUL
+2019-12-08 20:17:00,824 [main] INFO entalProject - Login Flyout -SUCCESSFUL
+2019-12-08 20:17:01,409 [main] INFO entalProject - Populating Login credentials - SUCCESSFUL
+2019-12-08 20:17:27,238 [main] INFO entalProject - User Profile -SUCCESSFUL
+2019-12-08 20:17:34,824 [main] INFO entalProject - Header -SUCCESSFUL
+2019-12-08 20:17:49,798 [main] INFO entalProject - User Profile -SUCCESSFUL
+2019-12-08 20:18:02,004 [main] INFO entalProject - Started Test case:- userAccountNumbers
+2019-12-08 20:18:08,045 [main] INFO entalProject - Application Launch -SUCCESSFUL
+2019-12-08 20:18:08,243 [main] INFO entalProject - Clicking on Login - SUCCESSFUL
+2019-12-08 20:18:16,358 [main] INFO entalProject - Login Flyout -SUCCESSFUL
+2019-12-08 20:18:16,954 [main] INFO entalProject - Populating Login credentials - SUCCESSFUL
+2019-12-08 20:18:41,245 [main] INFO entalProject - User Profile -SUCCESSFUL
+2019-12-08 20:18:51,486 [main] INFO entalProject - Header -SUCCESSFUL
+2019-12-08 20:19:06,056 [main] INFO entalProject - User Profile -SUCCESSFUL
+2019-12-08 20:19:18,888 [main] INFO entalProject - Started Test case:- userAccountNumbers
+2019-12-08 20:19:24,951 [main] INFO entalProject - Application Launch -SUCCESSFUL
+2019-12-08 20:19:25,108 [main] INFO entalProject - Clicking on Login - SUCCESSFUL
+2019-12-08 20:19:33,226 [main] INFO entalProject - Login Flyout -SUCCESSFUL
+2019-12-08 20:19:33,889 [main] INFO entalProject - Populating Login credentials - SUCCESSFUL
+2019-12-08 20:19:57,411 [main] INFO entalProject - User Profile -SUCCESSFUL
+2019-12-08 20:20:19,083 [main] INFO entalProject - Started Test case:- userAccountNumbers
+2019-12-08 20:20:25,127 [main] INFO entalProject - Application Launch -SUCCESSFUL
+2019-12-08 20:20:25,301 [main] INFO entalProject - Clicking on Login - SUCCESSFUL
+2019-12-08 20:20:33,425 [main] INFO entalProject - Login Flyout -SUCCESSFUL
+2019-12-08 20:20:34,007 [main] INFO entalProject - Populating Login credentials - SUCCESSFUL
+2019-12-08 20:20:57,490 [main] INFO entalProject - User Profile -SUCCESSFUL
+2019-12-08 20:21:09,230 [main] INFO entalProject - Header -SUCCESSFUL
+2019-12-08 20:21:24,198 [main] INFO entalProject - User Profile -SUCCESSFUL
+2019-12-08 20:21:42,800 [main] INFO entalProject - Started Test case:- userAccountNumbers
+2019-12-08 20:21:48,841 [main] INFO entalProject - Application Launch -SUCCESSFUL
+2019-12-08 20:21:48,971 [main] INFO entalProject - Clicking on Login - SUCCESSFUL
+2019-12-08 20:21:57,076 [main] INFO entalProject - Login Flyout -SUCCESSFUL
+2019-12-08 20:21:57,658 [main] INFO entalProject - Populating Login credentials - SUCCESSFUL
+2019-12-08 20:22:18,680 [main] INFO entalProject - Started Test case:- validCredentialsLogintest
+2019-12-08 20:22:24,717 [main] INFO entalProject - Application Launch -SUCCESSFUL
+2019-12-08 20:22:24,797 [main] INFO entalProject - Clicking on Login - SUCCESSFUL
+2019-12-08 20:22:32,886 [main] INFO entalProject - Login Flyout -SUCCESSFUL
+2019-12-08 20:22:33,567 [main] INFO entalProject - Populating Login credentials - SUCCESSFUL
+2019-12-08 20:22:56,867 [main] INFO entalProject - Started Test case:- userAccountNumbers
+2019-12-08 20:23:02,907 [main] INFO entalProject - Application Launch -SUCCESSFUL
+2019-12-08 20:23:03,066 [main] INFO entalProject - Clicking on Login - SUCCESSFUL
+2019-12-08 20:23:11,196 [main] INFO entalProject - Login Flyout -SUCCESSFUL
+2019-12-08 20:23:11,723 [main] INFO entalProject - Populating Login credentials - SUCCESSFUL
+2019-12-08 20:23:39,220 [main] INFO entalProject - Started Test case:- userAccountNumbers
+2019-12-08 20:23:45,255 [main] INFO entalProject - Application Launch -SUCCESSFUL
+2019-12-08 20:23:45,419 [main] INFO entalProject - Clicking on Login - SUCCESSFUL
+2019-12-08 20:23:53,486 [main] INFO entalProject - Login Flyout -SUCCESSFUL
+2019-12-08 20:23:54,077 [main] INFO entalProject - Populating Login credentials - SUCCESSFUL
+2019-12-08 20:24:18,784 [main] INFO entalProject - Started Test case:- validCredentialsLogintest
+2019-12-08 20:24:24,826 [main] INFO entalProject - Application Launch -SUCCESSFUL
+2019-12-08 20:24:25,002 [main] INFO entalProject - Clicking on Login - SUCCESSFUL
+2019-12-08 20:24:33,096 [main] INFO entalProject - Login Flyout -SUCCESSFUL
+2019-12-08 20:24:33,621 [main] INFO entalProject - Populating Login credentials - SUCCESSFUL
+2019-12-08 20:27:50,914 [main] INFO entalProject - Started Test case:- userAccountNumbers
+2019-12-08 20:27:56,968 [main] INFO entalProject - Application Launch -SUCCESSFUL
+2019-12-08 20:27:57,132 [main] INFO entalProject - Clicking on Login - SUCCESSFUL
+2019-12-08 20:28:05,280 [main] INFO entalProject - Login Flyout -SUCCESSFUL
+2019-12-08 20:28:05,967 [main] INFO entalProject - Populating Login credentials - SUCCESSFUL
+2019-12-08 20:28:30,765 [main] INFO entalProject - Started Test case:- userAccountNumbers
+2019-12-08 20:28:36,806 [main] INFO entalProject - Application Launch -SUCCESSFUL
+2019-12-08 20:28:36,985 [main] INFO entalProject - Clicking on Login - SUCCESSFUL
+2019-12-08 20:28:45,092 [main] INFO entalProject - Login Flyout -SUCCESSFUL
+2019-12-08 20:28:45,654 [main] INFO entalProject - Populating Login credentials - SUCCESSFUL
+2019-12-08 20:29:10,260 [main] INFO entalProject - Started Test case:- userAccountNumbers
+2019-12-08 20:29:16,306 [main] INFO entalProject - Application Launch -SUCCESSFUL
+2019-12-08 20:29:16,525 [main] INFO entalProject - Clicking on Login - SUCCESSFUL
+2019-12-08 20:29:24,622 [main] INFO entalProject - Login Flyout -SUCCESSFUL
+2019-12-08 20:29:25,183 [main] INFO entalProject - Populating Login credentials - SUCCESSFUL
+2019-12-08 20:29:49,890 [main] INFO entalProject - Started Test case:- userAccountNumbers
+2019-12-08 20:29:55,928 [main] INFO entalProject - Application Launch -SUCCESSFUL
+2019-12-08 20:29:56,116 [main] INFO entalProject - Clicking on Login - SUCCESSFUL
+2019-12-08 20:30:04,247 [main] INFO entalProject - Login Flyout -SUCCESSFUL
+2019-12-08 20:30:04,899 [main] INFO entalProject - Populating Login credentials - SUCCESSFUL
+2019-12-08 20:30:31,658 [main] INFO entalProject - Started Test case:- userAccountNumbers
+2019-12-08 20:30:37,696 [main] INFO entalProject - Application Launch -SUCCESSFUL
+2019-12-08 20:30:37,860 [main] INFO entalProject - Clicking on Login - SUCCESSFUL
+2019-12-08 20:30:45,939 [main] INFO entalProject - Login Flyout -SUCCESSFUL
+2019-12-08 20:30:46,575 [main] INFO entalProject - Populating Login credentials - SUCCESSFUL
+2019-12-08 20:31:09,272 [main] INFO entalProject - User Profile -SUCCESSFUL
+2019-12-08 20:31:17,263 [main] INFO entalProject - Header -SUCCESSFUL
+2019-12-08 20:31:32,841 [main] INFO entalProject - User Profile -SUCCESSFUL
+2019-12-08 20:31:46,799 [main] INFO entalProject - Started Test case:- userAccountNumbers
+2019-12-08 20:31:52,833 [main] INFO entalProject - Application Launch -SUCCESSFUL
+2019-12-08 20:31:53,023 [main] INFO entalProject - Clicking on Login - SUCCESSFUL
+2019-12-08 20:32:01,149 [main] INFO entalProject - Login Flyout -SUCCESSFUL
+2019-12-08 20:32:01,743 [main] INFO entalProject - Populating Login credentials - SUCCESSFUL
+2019-12-08 20:32:35,310 [main] INFO entalProject - User Profile -SUCCESSFUL
+2019-12-08 20:33:08,860 [main] INFO entalProject - Header -SUCCESSFUL
+2019-12-08 20:33:25,617 [main] INFO entalProject - User Profile -SUCCESSFUL
+2019-12-08 20:33:37,147 [main] INFO entalProject - Started Test case:- validCredentialsLogintest
+2019-12-08 20:33:43,196 [main] INFO entalProject - Application Launch -SUCCESSFUL
+2019-12-08 20:33:43,382 [main] INFO entalProject - Clicking on Login - SUCCESSFUL
+2019-12-08 20:33:51,492 [main] INFO entalProject - Login Flyout -SUCCESSFUL
+2019-12-08 20:33:52,151 [main] INFO entalProject - Populating Login credentials - SUCCESSFUL
+2019-12-08 20:34:15,531 [main] INFO entalProject - User Profile -SUCCESSFUL
+2019-12-08 20:34:33,596 [main] INFO entalProject - Mi Plan -SUCCESSFUL
+2019-12-08 20:34:51,842 [main] INFO entalProject - User Profile -SUCCESSFUL
+2019-12-08 20:35:05,073 [main] INFO entalProject - Started Test case:- userAccountNumbers
+2019-12-08 20:35:11,118 [main] INFO entalProject - Application Launch -SUCCESSFUL
+2019-12-08 20:35:13,046 [main] INFO entalProject - Clicking on Login - SUCCESSFUL
+2019-12-08 20:35:21,156 [main] INFO entalProject - Login Flyout -SUCCESSFUL
+2019-12-08 20:35:21,654 [main] INFO entalProject - Populating Login credentials - SUCCESSFUL
+2019-12-08 20:35:46,396 [main] INFO entalProject - User Profile -SUCCESSFUL
+2019-12-08 20:35:54,898 [main] INFO entalProject - Header -SUCCESSFUL
+2019-12-08 20:36:10,021 [main] INFO entalProject - User Profile -SUCCESSFUL
+2019-12-08 20:36:21,943 [main] INFO entalProject - Started Test case:- userAccountNumbers
+2019-12-08 20:36:28,014 [main] INFO entalProject - Application Launch -SUCCESSFUL
+2019-12-08 20:36:28,169 [main] INFO entalProject - Clicking on Login - SUCCESSFUL
+2019-12-08 20:36:36,263 [main] INFO entalProject - Login Flyout -SUCCESSFUL
+2019-12-08 20:36:36,799 [main] INFO entalProject - Populating Login credentials - SUCCESSFUL
+2019-12-08 20:37:00,313 [main] INFO entalProject - User Profile -SUCCESSFUL
+2019-12-08 20:37:12,492 [main] INFO entalProject - Header -SUCCESSFUL
+2019-12-08 20:37:27,870 [main] INFO entalProject - User Profile -SUCCESSFUL
+2019-12-08 20:37:41,197 [main] INFO entalProject - Started Test case:- validCredentialsLogintest
+2019-12-08 20:37:47,241 [main] INFO entalProject - Application Launch -SUCCESSFUL
+2019-12-08 20:37:47,426 [main] INFO entalProject - Clicking on Login - SUCCESSFUL
+2019-12-08 20:37:55,561 [main] INFO entalProject - Login Flyout -SUCCESSFUL
+2019-12-08 20:37:56,113 [main] INFO entalProject - Populating Login credentials - SUCCESSFUL
+2019-12-08 20:46:24,898 [main] INFO entalProject - Started Test case:- userAccountNumbers
+2019-12-08 20:46:30,941 [main] INFO entalProject - Application Launch -SUCCESSFUL
+2019-12-08 20:46:31,088 [main] INFO entalProject - Clicking on Login - SUCCESSFUL
+2019-12-08 20:46:39,196 [main] INFO entalProject - Login Flyout -SUCCESSFUL
+2019-12-08 20:46:39,776 [main] INFO entalProject - Populating Login credentials - SUCCESSFUL
+2019-12-08 20:47:02,971 [main] INFO entalProject - User Profile -SUCCESSFUL
+2019-12-08 20:47:12,833 [main] INFO entalProject - Beneficious BreadCrumb -SUCCESSFUL
+2019-12-08 20:47:27,790 [main] INFO entalProject - User Profile -SUCCESSFUL
+2019-12-08 20:47:43,114 [main] INFO entalProject - Started Test case:- userAccountNumbers
+2019-12-08 20:47:49,157 [main] INFO entalProject - Application Launch -SUCCESSFUL
+2019-12-08 20:47:49,356 [main] INFO entalProject - Clicking on Login - SUCCESSFUL
+2019-12-08 20:47:57,491 [main] INFO entalProject - Login Flyout -SUCCESSFUL
+2019-12-08 20:47:58,090 [main] INFO entalProject - Populating Login credentials - SUCCESSFUL
+2019-12-08 20:48:32,228 [main] INFO entalProject - User Profile -SUCCESSFUL
+2019-12-08 20:48:40,420 [main] INFO entalProject - Header -SUCCESSFUL
+2019-12-08 20:48:55,126 [main] INFO entalProject - User Profile -SUCCESSFUL
+2019-12-08 20:49:08,967 [main] INFO entalProject - Started Test case:- userAccountNumbers
+2019-12-08 20:49:15,003 [main] INFO entalProject - Application Launch -SUCCESSFUL
+2019-12-08 20:49:15,162 [main] INFO entalProject - Clicking on Login - SUCCESSFUL
+2019-12-08 20:49:23,267 [main] INFO entalProject - Login Flyout -SUCCESSFUL
+2019-12-08 20:49:23,805 [main] INFO entalProject - Populating Login credentials - SUCCESSFUL
+2019-12-08 20:49:48,321 [main] INFO entalProject - User Profile -SUCCESSFUL
+2019-12-08 20:49:55,966 [main] INFO entalProject - Header -SUCCESSFUL
+2019-12-08 20:50:12,099 [main] INFO entalProject - User Profile -SUCCESSFUL
+2019-12-08 20:50:26,648 [main] INFO entalProject - Started Test case:- userAccountNumbers
+2019-12-08 20:50:32,696 [main] INFO entalProject - Application Launch -SUCCESSFUL
+2019-12-08 20:50:32,892 [main] INFO entalProject - Clicking on Login - SUCCESSFUL
+2019-12-08 20:50:41,025 [main] INFO entalProject - Login Flyout -SUCCESSFUL
+2019-12-08 20:50:41,580 [main] INFO entalProject - Populating Login credentials - SUCCESSFUL
+2019-12-08 20:51:05,204 [main] INFO entalProject - User Profile -SUCCESSFUL
+2019-12-08 20:51:27,265 [main] INFO entalProject - Started Test case:- userAccountNumbers
+2019-12-08 20:51:33,298 [main] INFO entalProject - Application Launch -SUCCESSFUL
+2019-12-08 20:51:33,426 [main] INFO entalProject - Clicking on Login - SUCCESSFUL
+2019-12-08 20:51:41,544 [main] INFO entalProject - Login Flyout -SUCCESSFUL
+2019-12-08 20:51:42,149 [main] INFO entalProject - Populating Login credentials - SUCCESSFUL
+2019-12-08 20:52:06,667 [main] INFO entalProject - User Profile -SUCCESSFUL
+2019-12-08 20:52:14,313 [main] INFO entalProject - Header -SUCCESSFUL
+2019-12-08 20:52:29,216 [main] INFO entalProject - User Profile -SUCCESSFUL
+2019-12-08 20:52:45,260 [main] INFO entalProject - Started Test case:- userAccountNumbers
+2019-12-08 20:52:51,290 [main] INFO entalProject - Application Launch -SUCCESSFUL
+2019-12-08 20:52:51,472 [main] INFO entalProject - Clicking on Login - SUCCESSFUL
+2019-12-08 20:52:59,563 [main] INFO entalProject - Login Flyout -SUCCESSFUL
+2019-12-08 20:53:00,106 [main] INFO entalProject - Populating Login credentials - SUCCESSFUL
+2019-12-08 20:53:25,234 [main] INFO entalProject - User Profile -SUCCESSFUL
+2019-12-08 20:53:58,076 [main] INFO entalProject - Header -SUCCESSFUL
+2019-12-08 20:54:13,166 [main] INFO entalProject - User Profile -SUCCESSFUL
+2019-12-08 20:54:45,121 [main] INFO entalProject - Started Test case:- validCredentialsLogintest
+2019-12-08 20:54:51,169 [main] INFO entalProject - Application Launch -SUCCESSFUL
+2019-12-08 20:55:01,223 [main] INFO entalProject - Clicking on Login - SUCCESSFUL
+2019-12-08 20:55:19,338 [main] INFO entalProject - Login Flyout -FAILED
+2019-12-08 20:55:30,275 [main] INFO entalProject - Started Test case:- userAccountNumbers
+2019-12-08 20:55:36,330 [main] INFO entalProject - Application Launch -SUCCESSFUL
+2019-12-08 20:55:36,496 [main] INFO entalProject - Clicking on Login - SUCCESSFUL
+2019-12-08 20:55:44,602 [main] INFO entalProject - Login Flyout -SUCCESSFUL
+2019-12-08 20:55:45,302 [main] INFO entalProject - Populating Login credentials - SUCCESSFUL
+2019-12-08 20:56:10,121 [main] INFO entalProject - User Profile -SUCCESSFUL
+2019-12-08 20:56:17,726 [main] INFO entalProject - Header -SUCCESSFUL
+2019-12-08 20:56:34,263 [main] INFO entalProject - User Profile -SUCCESSFUL
+2019-12-08 20:56:48,485 [main] INFO entalProject - Started Test case:- userAccountNumbers
+2019-12-08 20:56:54,520 [main] INFO entalProject - Application Launch -SUCCESSFUL
+2019-12-08 20:56:54,726 [main] INFO entalProject - Clicking on Login - SUCCESSFUL
+2019-12-08 20:57:02,830 [main] INFO entalProject - Login Flyout -SUCCESSFUL
+2019-12-08 20:57:03,396 [main] INFO entalProject - Populating Login credentials - SUCCESSFUL
+2019-12-08 20:57:36,379 [main] INFO entalProject - User Profile -SUCCESSFUL
+2019-12-08 20:57:46,668 [main] INFO entalProject - Header -SUCCESSFUL
+2019-12-08 20:58:01,640 [main] INFO entalProject - User Profile -SUCCESSFUL
+2019-12-08 20:58:19,776 [main] INFO entalProject - Started Test case:- validCredentialsLogintest
+2019-12-08 20:58:25,822 [main] INFO entalProject - Application Launch -SUCCESSFUL
+2019-12-08 20:58:26,032 [main] INFO entalProject - Clicking on Login - SUCCESSFUL
+2019-12-08 20:58:34,132 [main] INFO entalProject - Login Flyout -SUCCESSFUL
+2019-12-08 20:58:34,692 [main] INFO entalProject - Populating Login credentials - SUCCESSFUL
+2019-12-08 20:58:58,107 [main] INFO entalProject - User Profile -SUCCESSFUL
+2019-12-08 21:15:33,094 [main] INFO entalProject - Started Test case:- userAccountNumbers
+2019-12-08 21:15:39,139 [main] INFO entalProject - Application Launch -SUCCESSFUL
+2019-12-08 21:15:39,230 [main] INFO entalProject - Clicking on Login - SUCCESSFUL
+2019-12-08 21:15:47,328 [main] INFO entalProject - Login Flyout -SUCCESSFUL
+2019-12-08 21:15:47,912 [main] INFO entalProject - Populating Login credentials - SUCCESSFUL
+2019-12-08 21:19:17,016 [main] INFO entalProject - Started Test case:- userAccountNumbers
+2019-12-08 21:19:23,069 [main] INFO entalProject - Application Launch -SUCCESSFUL
+2019-12-08 21:19:23,205 [main] INFO entalProject - Clicking on Login - SUCCESSFUL
+2019-12-08 21:19:31,312 [main] INFO entalProject - Login Flyout -SUCCESSFUL
+2019-12-08 21:19:31,990 [main] INFO entalProject - Populating Login credentials - SUCCESSFUL
+2019-12-08 21:24:10,933 [main] INFO entalProject - Started Test case:- userAccountNumbers
+2019-12-08 21:24:25,850 [main] INFO entalProject - Application Launch -FAILED
+2019-12-08 21:24:51,995 [main] INFO entalProject - Started Test case:- userAccountNumbers
+2019-12-08 21:24:58,069 [main] INFO entalProject - Application Launch -SUCCESSFUL
+2019-12-08 21:24:58,257 [main] INFO entalProject - Clicking on Login - SUCCESSFUL
+2019-12-08 21:25:06,379 [main] INFO entalProject - Login Flyout -SUCCESSFUL
+2019-12-08 21:25:06,982 [main] INFO entalProject - Populating Login credentials - SUCCESSFUL
+2019-12-08 21:28:33,906 [main] INFO entalProject - Started Test case:- userAccountNumbers
+2019-12-08 21:28:39,991 [main] INFO entalProject - Application Launch -SUCCESSFUL
+2019-12-08 21:28:40,154 [main] INFO entalProject - Clicking on Login - SUCCESSFUL
+2019-12-08 21:28:48,256 [main] INFO entalProject - Login Flyout -SUCCESSFUL
+2019-12-08 21:28:48,898 [main] INFO entalProject - Populating Login credentials - SUCCESSFUL
+2019-12-08 21:30:10,435 [main] INFO entalProject - Started Test case:- userAccountNumbers
+2019-12-08 21:30:16,489 [main] INFO entalProject - Application Launch -SUCCESSFUL
+2019-12-08 21:30:16,618 [main] INFO entalProject - Clicking on Login - SUCCESSFUL
+2019-12-08 21:30:24,721 [main] INFO entalProject - Login Flyout -SUCCESSFUL
+2019-12-08 21:30:25,238 [main] INFO entalProject - Populating Login credentials - SUCCESSFUL
+2019-12-08 21:31:00,004 [main] INFO entalProject - Started Test case:- userAccountNumbers
+2019-12-08 21:31:06,090 [main] INFO entalProject - Application Launch -SUCCESSFUL
+2019-12-08 21:31:06,244 [main] INFO entalProject - Clicking on Login - SUCCESSFUL
+2019-12-08 21:31:14,319 [main] INFO entalProject - Login Flyout -SUCCESSFUL
+2019-12-08 21:31:14,858 [main] INFO entalProject - Populating Login credentials - SUCCESSFUL
+2019-12-08 21:32:48,835 [main] INFO entalProject - Started Test case:- userAccountNumbers
+2019-12-08 21:32:54,896 [main] INFO entalProject - Application Launch -SUCCESSFUL
+2019-12-08 21:32:55,110 [main] INFO entalProject - Clicking on Login - SUCCESSFUL
+2019-12-08 21:33:03,176 [main] INFO entalProject - Login Flyout -SUCCESSFUL
+2019-12-08 21:33:03,791 [main] INFO entalProject - Populating Login credentials - SUCCESSFUL
+2019-12-08 21:35:22,551 [main] INFO entalProject - Started Test case:- userAccountNumbers
+2019-12-08 21:35:28,637 [main] INFO entalProject - Application Launch -SUCCESSFUL
+2019-12-08 21:35:28,798 [main] INFO entalProject - Clicking on Login - SUCCESSFUL
+2019-12-08 21:35:36,874 [main] INFO entalProject - Login Flyout -SUCCESSFUL
+2019-12-08 21:35:53,507 [main] INFO entalProject - Populating Login credentials - SUCCESSFUL
+2019-12-08 21:39:41,419 [main] INFO entalProject - Started Test case:- userAccountNumbers
+2019-12-08 21:39:47,503 [main] INFO entalProject - Application Launch -SUCCESSFUL
+2019-12-08 21:39:47,743 [main] INFO entalProject - Clicking on Login - SUCCESSFUL
+2019-12-08 21:39:55,843 [main] INFO entalProject - Login Flyout -SUCCESSFUL
+2019-12-08 21:39:56,490 [main] INFO entalProject - Populating Login credentials - SUCCESSFUL
+2019-12-08 21:40:20,355 [main] INFO entalProject - User Profile -SUCCESSFUL
+2019-12-08 21:40:36,642 [main] INFO entalProject - Default Profile Number -SUCCESSFUL
+2019-12-08 21:42:57,237 [main] INFO entalProject - Started Test case:- userAccountNumbers
+2019-12-08 21:43:03,325 [main] INFO entalProject - Application Launch -SUCCESSFUL
+2019-12-08 21:43:03,480 [main] INFO entalProject - Clicking on Login - SUCCESSFUL
+2019-12-08 21:43:11,601 [main] INFO entalProject - Login Flyout -SUCCESSFUL
+2019-12-08 21:43:12,337 [main] INFO entalProject - Populating Login credentials - SUCCESSFUL
+2019-12-08 21:43:35,506 [main] INFO entalProject - User Profile -SUCCESSFUL
+2019-12-08 21:43:43,888 [main] INFO entalProject - Beneficious BreadCrumb -SUCCESSFUL
+2019-12-08 21:44:01,070 [main] INFO entalProject - User Profile -SUCCESSFUL
+2019-12-08 21:44:42,442 [main] INFO entalProject - Started Test case:- userAccountNumbers
+2019-12-08 21:44:48,497 [main] INFO entalProject - Application Launch -SUCCESSFUL
+2019-12-08 21:44:48,633 [main] INFO entalProject - Clicking on Login - SUCCESSFUL
+2019-12-08 21:44:56,730 [main] INFO entalProject - Login Flyout -SUCCESSFUL
+2019-12-08 21:44:57,223 [main] INFO entalProject - Populating Login credentials - SUCCESSFUL
+2019-12-08 21:45:21,150 [main] INFO entalProject - User Profile -SUCCESSFUL
+2019-12-08 21:45:28,425 [main] INFO entalProject - Header -SUCCESSFUL
+2019-12-08 21:45:45,671 [main] INFO entalProject - User Profile -SUCCESSFUL
+2019-12-08 21:46:26,947 [main] INFO entalProject - Started Test case:- userAccountNumbers
+2019-12-08 21:46:42,970 [main] INFO entalProject - Application Launch -FAILED
+2019-12-08 21:47:16,243 [main] INFO entalProject - Started Test case:- userAccountNumbers
+2019-12-08 21:47:22,299 [main] INFO entalProject - Application Launch -SUCCESSFUL
+2019-12-08 21:47:22,452 [main] INFO entalProject - Clicking on Login - SUCCESSFUL
+2019-12-08 21:47:30,570 [main] INFO entalProject - Login Flyout -SUCCESSFUL
+2019-12-08 21:47:31,086 [main] INFO entalProject - Populating Login credentials - SUCCESSFUL
+2019-12-08 21:47:55,155 [main] INFO entalProject - User Profile -SUCCESSFUL
+2019-12-08 21:48:03,115 [main] INFO entalProject - Beneficious BreadCrumb -SUCCESSFUL
+2019-12-08 21:48:19,909 [main] INFO entalProject - User Profile -SUCCESSFUL
+2019-12-08 21:48:58,566 [main] INFO entalProject - Started Test case:- userAccountNumbers
+2019-12-08 21:49:04,631 [main] INFO entalProject - Application Launch -SUCCESSFUL
+2019-12-08 21:49:04,875 [main] INFO entalProject - Clicking on Login - SUCCESSFUL
+2019-12-08 21:49:12,984 [main] INFO entalProject - Login Flyout -SUCCESSFUL
+2019-12-08 21:49:13,617 [main] INFO entalProject - Populating Login credentials - SUCCESSFUL
+2019-12-08 21:49:38,960 [main] INFO entalProject - User Profile -SUCCESSFUL
+2019-12-08 21:49:46,868 [main] INFO entalProject - Header -SUCCESSFUL
+2019-12-08 21:50:06,070 [main] INFO entalProject - User Profile -SUCCESSFUL
+2019-12-08 21:50:45,051 [main] INFO entalProject - Started Test case:- userAccountNumbers
+2019-12-08 21:50:51,092 [main] INFO entalProject - Application Launch -SUCCESSFUL
+2019-12-08 21:50:51,175 [main] INFO entalProject - Clicking on Login - SUCCESSFUL
+2019-12-08 21:50:59,232 [main] INFO entalProject - Login Flyout -SUCCESSFUL
+2019-12-08 21:50:59,781 [main] INFO entalProject - Populating Login credentials - SUCCESSFUL
+2019-12-08 21:51:23,331 [main] INFO entalProject - Started Test case:- userAccountNumbers
+2019-12-08 21:51:29,362 [main] INFO entalProject - Application Launch -SUCCESSFUL
+2019-12-08 21:51:29,519 [main] INFO entalProject - Clicking on Login - SUCCESSFUL
+2019-12-08 21:51:37,618 [main] INFO entalProject - Login Flyout -SUCCESSFUL
+2019-12-08 21:51:38,205 [main] INFO entalProject - Populating Login credentials - SUCCESSFUL
+2019-12-08 21:52:03,507 [main] INFO entalProject - User Profile -SUCCESSFUL
+2019-12-08 21:52:19,726 [main] INFO entalProject - Default Profile Number -SUCCESSFUL
+2019-12-08 21:52:59,618 [main] INFO entalProject - Started Test case:- userAccountNumbers
+2019-12-08 21:53:05,680 [main] INFO entalProject - Application Launch -SUCCESSFUL
+2019-12-08 21:53:05,830 [main] INFO entalProject - Clicking on Login - SUCCESSFUL
+2019-12-08 21:53:13,945 [main] INFO entalProject - Login Flyout -SUCCESSFUL
+2019-12-08 21:53:14,516 [main] INFO entalProject - Populating Login credentials - SUCCESSFUL
+2019-12-08 21:53:38,865 [main] INFO entalProject - User Profile -SUCCESSFUL
+2019-12-08 21:53:46,334 [main] INFO entalProject - Header -SUCCESSFUL
+2019-12-08 21:54:03,862 [main] INFO entalProject - User Profile -SUCCESSFUL
+2019-12-08 21:54:44,938 [main] INFO entalProject - Started Test case:- userAccountNumbers
+2019-12-08 21:54:50,981 [main] INFO entalProject - Application Launch -SUCCESSFUL
+2019-12-08 21:54:51,152 [main] INFO entalProject - Clicking on Login - SUCCESSFUL
+2019-12-08 21:54:59,268 [main] INFO entalProject - Login Flyout -SUCCESSFUL
+2019-12-08 21:54:59,818 [main] INFO entalProject - Populating Login credentials - SUCCESSFUL
+2019-12-08 21:55:24,163 [main] INFO entalProject - User Profile -SUCCESSFUL
+2019-12-08 21:55:36,235 [main] INFO entalProject - Header -SUCCESSFUL
+2019-12-08 21:55:52,975 [main] INFO entalProject - User Profile -SUCCESSFUL
+2019-12-08 21:56:32,714 [main] INFO entalProject - Started Test case:- validCredentialsLogintest
+2019-12-08 21:56:38,771 [main] INFO entalProject - Application Launch -SUCCESSFUL
+2019-12-08 21:56:38,936 [main] INFO entalProject - Clicking on Login - SUCCESSFUL
+2019-12-08 21:56:47,025 [main] INFO entalProject - Login Flyout -SUCCESSFUL
+2019-12-08 21:56:47,620 [main] INFO entalProject - Populating Login credentials - SUCCESSFUL
+2019-12-08 21:57:12,560 [main] INFO entalProject - User Profile -SUCCESSFUL
+2019-12-08 21:57:30,411 [main] INFO entalProject - Mi Plan -SUCCESSFUL
+2019-12-08 21:57:46,606 [main] INFO entalProject - User Profile -SUCCESSFUL
+2019-12-08 21:58:18,038 [main] INFO entalProject - Started Test case:- userAccountNumbers
+2019-12-08 21:58:34,092 [main] INFO entalProject - Application Launch -FAILED
+2019-12-08 21:58:38,086 [main] INFO entalProject - Started Test case:- userAccountNumbers
+2019-12-08 21:58:54,136 [main] INFO entalProject - Application Launch -FAILED
+2019-12-08 21:58:58,215 [main] INFO entalProject - Started Test case:- validCredentialsLogintest
+2019-12-08 21:59:14,225 [main] INFO entalProject - Application Launch -FAILED
+2019-12-08 22:00:34,852 [main] INFO entalProject - Started Test case:- userAccountNumbers
+2019-12-08 22:00:40,900 [main] INFO entalProject - Application Launch -SUCCESSFUL
+2019-12-08 22:00:41,093 [main] INFO entalProject - Clicking on Login - SUCCESSFUL
+2019-12-08 22:00:49,178 [main] INFO entalProject - Login Flyout -SUCCESSFUL
+2019-12-08 22:00:49,719 [main] INFO entalProject - Populating Login credentials - SUCCESSFUL
+2019-12-08 22:02:04,756 [main] INFO entalProject - Started Test case:- userAccountNumbers
+2019-12-08 22:02:10,813 [main] INFO entalProject - Application Launch -SUCCESSFUL
+2019-12-08 22:02:20,871 [main] INFO entalProject - Clicking on Login - SUCCESSFUL
+2019-12-08 22:02:49,478 [main] INFO entalProject - Started Test case:- userAccountNumbers
+2019-12-08 22:02:55,561 [main] INFO entalProject - Application Launch -SUCCESSFUL
+2019-12-08 22:02:55,787 [main] INFO entalProject - Clicking on Login - SUCCESSFUL
+2019-12-08 22:03:03,896 [main] INFO entalProject - Login Flyout -SUCCESSFUL
+2019-12-08 22:03:04,536 [main] INFO entalProject - Populating Login credentials - SUCCESSFUL
+2019-12-08 22:03:44,746 [main] INFO entalProject - User Profile -SUCCESSFUL
+2019-12-08 22:04:10,096 [main] INFO entalProject - Beneficious BreadCrumb -SUCCESSFUL
+2019-12-08 22:04:26,726 [main] INFO entalProject - User Profile -SUCCESSFUL
+2019-12-08 22:07:19,119 [main] INFO entalProject - Started Test case:- userAccountNumbers
+2019-12-08 22:07:25,182 [main] INFO entalProject - Application Launch -SUCCESSFUL
+2019-12-08 22:07:25,360 [main] INFO entalProject - Clicking on Login - SUCCESSFUL
+2019-12-08 22:07:33,458 [main] INFO entalProject - Login Flyout -SUCCESSFUL
+2019-12-08 22:07:34,067 [main] INFO entalProject - Populating Login credentials - SUCCESSFUL
+2019-12-08 22:09:32,831 [main] INFO entalProject - Started Test case:- userAccountNumbers
+2019-12-08 22:09:38,887 [main] INFO entalProject - Application Launch -SUCCESSFUL
+2019-12-08 22:09:39,053 [main] INFO entalProject - Clicking on Login - SUCCESSFUL
+2019-12-08 22:09:47,169 [main] INFO entalProject - Login Flyout -SUCCESSFUL
+2019-12-08 22:09:47,802 [main] INFO entalProject - Populating Login credentials - SUCCESSFUL
+2019-12-08 22:11:51,998 [main] INFO entalProject - Started Test case:- userAccountNumbers
+2019-12-08 22:11:58,053 [main] INFO entalProject - Application Launch -SUCCESSFUL
+2019-12-08 22:11:58,183 [main] INFO entalProject - Clicking on Login - SUCCESSFUL
+2019-12-08 22:12:06,249 [main] INFO entalProject - Login Flyout -SUCCESSFUL
+2019-12-08 22:12:06,766 [main] INFO entalProject - Populating Login credentials - SUCCESSFUL
+2019-12-08 22:13:00,431 [main] INFO entalProject - Started Test case:- userAccountNumbers
+2019-12-08 22:13:06,472 [main] INFO entalProject - Application Launch -SUCCESSFUL
+2019-12-08 22:13:06,647 [main] INFO entalProject - Clicking on Login - SUCCESSFUL
+2019-12-08 22:13:14,790 [main] INFO entalProject - Login Flyout -SUCCESSFUL
+2019-12-08 22:13:15,402 [main] INFO entalProject - Populating Login credentials - SUCCESSFUL
+2019-12-08 22:13:40,354 [main] INFO entalProject - User Profile -SUCCESSFUL
+2019-12-08 22:13:49,621 [main] INFO entalProject - Beneficious BreadCrumb -SUCCESSFUL
+2019-12-08 22:14:06,464 [main] INFO entalProject - User Profile -SUCCESSFUL
+2019-12-08 22:17:19,001 [main] INFO entalProject - Started Test case:- userAccountNumbers
+2019-12-08 22:17:23,054 [main] INFO entalProject - Application Launch -SUCCESSFUL
+2019-12-08 22:17:23,249 [main] INFO entalProject - Clicking on Login - SUCCESSFUL
+2019-12-08 22:17:29,382 [main] INFO entalProject - Login Flyout -SUCCESSFUL
+2019-12-08 22:17:29,928 [main] INFO entalProject - Populating Login credentials - SUCCESSFUL
+2019-12-08 22:21:06,483 [main] INFO entalProject - User Profile -SUCCESSFUL
+2019-12-08 22:21:45,081 [main] INFO entalProject - Beneficious BreadCrumb -SUCCESSFUL
+2019-12-08 22:23:05,299 [main] INFO entalProject - User Profile -SUCCESSFUL
+2019-12-08 22:24:06,920 [main] INFO entalProject - Started Test case:- userAccountNumbers
+2019-12-08 22:24:21,007 [main] INFO entalProject - Application Launch -FAILED
+2019-12-08 22:24:43,616 [main] INFO entalProject - Started Test case:- userAccountNumbers
+2019-12-08 22:24:47,689 [main] INFO entalProject - Application Launch -SUCCESSFUL
+2019-12-08 22:24:47,791 [main] INFO entalProject - Clicking on Login - SUCCESSFUL
+2019-12-08 22:24:53,908 [main] INFO entalProject - Login Flyout -SUCCESSFUL
+2019-12-08 22:24:54,485 [main] INFO entalProject - Populating Login credentials - SUCCESSFUL
+2019-12-08 22:25:21,773 [main] INFO entalProject - User Profile -SUCCESSFUL
+2019-12-08 22:25:29,877 [main] INFO entalProject - Beneficious BreadCrumb -SUCCESSFUL
+2019-12-08 22:25:44,652 [main] INFO entalProject - User Profile -SUCCESSFUL
+2019-12-08 22:27:04,184 [main] INFO entalProject - Started Test case:- userAccountNumbers
+2019-12-08 22:27:08,240 [main] INFO entalProject - Application Launch -SUCCESSFUL
+2019-12-08 22:27:08,473 [main] INFO entalProject - Clicking on Login - SUCCESSFUL
+2019-12-08 22:27:14,563 [main] INFO entalProject - Login Flyout -SUCCESSFUL
+2019-12-08 22:27:15,108 [main] INFO entalProject - Populating Login credentials - SUCCESSFUL
+2019-12-08 22:27:39,127 [main] INFO entalProject - User Profile -SUCCESSFUL
+2019-12-08 22:27:48,292 [main] INFO entalProject - Beneficious BreadCrumb -SUCCESSFUL
+2019-12-08 22:28:02,866 [main] INFO entalProject - User Profile -SUCCESSFUL
+2019-12-08 22:28:15,422 [main] INFO entalProject - Started Test case:- userAccountNumbers
+2019-12-08 22:28:19,476 [main] INFO entalProject - Application Launch -SUCCESSFUL
+2019-12-08 22:28:19,560 [main] INFO entalProject - Clicking on Login - SUCCESSFUL
+2019-12-08 22:28:25,597 [main] INFO entalProject - Login Flyout -SUCCESSFUL
+2019-12-08 22:28:26,181 [main] INFO entalProject - Populating Login credentials - SUCCESSFUL
+2019-12-08 22:28:50,460 [main] INFO entalProject - User Profile -SUCCESSFUL
+2019-12-08 22:28:56,492 [main] INFO entalProject - Header -SUCCESSFUL
+2019-12-08 22:29:11,486 [main] INFO entalProject - User Profile -SUCCESSFUL
+2019-12-08 22:29:24,316 [main] INFO entalProject - Started Test case:- userAccountNumbers
+2019-12-08 22:29:28,360 [main] INFO entalProject - Application Launch -SUCCESSFUL
+2019-12-08 22:29:28,443 [main] INFO entalProject - Clicking on Login - SUCCESSFUL
+2019-12-08 22:29:34,481 [main] INFO entalProject - Login Flyout -SUCCESSFUL
+2019-12-08 22:29:35,019 [main] INFO entalProject - Populating Login credentials - SUCCESSFUL
+2019-12-08 22:30:00,053 [main] INFO entalProject - User Profile -SUCCESSFUL
+2019-12-08 22:30:06,966 [main] INFO entalProject - Header -SUCCESSFUL
+2019-12-08 22:30:22,521 [main] INFO entalProject - User Profile -SUCCESSFUL
+2019-12-08 22:30:36,354 [main] INFO entalProject - Started Test case:- userAccountNumbers
+2019-12-08 22:30:40,392 [main] INFO entalProject - Application Launch -SUCCESSFUL
+2019-12-08 22:30:40,610 [main] INFO entalProject - Clicking on Login - SUCCESSFUL
+2019-12-08 22:30:46,682 [main] INFO entalProject - Login Flyout -SUCCESSFUL
+2019-12-08 22:30:47,284 [main] INFO entalProject - Populating Login credentials - SUCCESSFUL
+2019-12-08 22:31:12,000 [main] INFO entalProject - User Profile -SUCCESSFUL
+2019-12-08 22:31:20,850 [main] INFO entalProject - Default Profile Number -SUCCESSFUL
+2019-12-08 22:31:33,904 [main] INFO entalProject - Started Test case:- userAccountNumbers
+2019-12-08 22:31:37,951 [main] INFO entalProject - Application Launch -SUCCESSFUL
+2019-12-08 22:31:38,115 [main] INFO entalProject - Clicking on Login - SUCCESSFUL
+2019-12-08 22:31:44,221 [main] INFO entalProject - Login Flyout -SUCCESSFUL
+2019-12-08 22:31:44,765 [main] INFO entalProject - Populating Login credentials - SUCCESSFUL
+2019-12-08 22:32:08,915 [main] INFO entalProject - User Profile -SUCCESSFUL
+2019-12-08 22:32:17,689 [main] INFO entalProject - Header -SUCCESSFUL
+2019-12-08 22:32:32,833 [main] INFO entalProject - User Profile -SUCCESSFUL
+2019-12-08 22:32:46,013 [main] INFO entalProject - Started Test case:- userAccountNumbers
+2019-12-08 22:32:50,068 [main] INFO entalProject - Application Launch -SUCCESSFUL
+2019-12-08 22:32:50,218 [main] INFO entalProject - Clicking on Login - SUCCESSFUL
+2019-12-08 22:32:56,290 [main] INFO entalProject - Login Flyout -SUCCESSFUL
+2019-12-08 22:32:56,862 [main] INFO entalProject - Populating Login credentials - SUCCESSFUL
+2019-12-08 22:33:21,774 [main] INFO entalProject - User Profile -SUCCESSFUL
+2019-12-08 22:33:32,558 [main] INFO entalProject - Header -SUCCESSFUL
+2019-12-08 22:33:47,641 [main] INFO entalProject - User Profile -SUCCESSFUL
+2019-12-08 22:34:01,866 [main] INFO entalProject - Started Test case:- validCredentialsLogintest
+2019-12-08 22:34:05,898 [main] INFO entalProject - Application Launch -SUCCESSFUL
+2019-12-08 22:34:05,985 [main] INFO entalProject - Clicking on Login - SUCCESSFUL
+2019-12-08 22:34:12,074 [main] INFO entalProject - Login Flyout -SUCCESSFUL
+2019-12-08 22:34:12,615 [main] INFO entalProject - Populating Login credentials - SUCCESSFUL
+2019-12-08 22:34:37,799 [main] INFO entalProject - User Profile -SUCCESSFUL
+2019-12-08 22:34:56,548 [main] INFO entalProject - Mi Plan -SUCCESSFUL
+2019-12-08 22:35:10,669 [main] INFO entalProject - User Profile -SUCCESSFUL
+2019-12-08 22:35:24,684 [main] INFO entalProject - Started Test case:- userAccountNumbers
+2019-12-08 22:35:28,712 [main] INFO entalProject - Application Launch -SUCCESSFUL
+2019-12-08 22:35:28,908 [main] INFO entalProject - Clicking on Login - SUCCESSFUL
+2019-12-08 22:35:35,003 [main] INFO entalProject - Login Flyout -SUCCESSFUL
+2019-12-08 22:35:35,538 [main] INFO entalProject - Populating Login credentials - SUCCESSFUL
+2019-12-08 22:35:59,718 [main] INFO entalProject - User Profile -SUCCESSFUL
+2019-12-08 22:36:05,999 [main] INFO entalProject - Header -SUCCESSFUL
+2019-12-08 22:36:21,383 [main] INFO entalProject - User Profile -SUCCESSFUL
+2019-12-08 22:36:39,693 [main] INFO entalProject - Started Test case:- userAccountNumbers
+2019-12-08 22:36:43,732 [main] INFO entalProject - Application Launch -SUCCESSFUL
+2019-12-08 22:36:43,898 [main] INFO entalProject - Clicking on Login - SUCCESSFUL
+2019-12-08 22:36:49,997 [main] INFO entalProject - Login Flyout -SUCCESSFUL
+2019-12-08 22:36:50,520 [main] INFO entalProject - Populating Login credentials - SUCCESSFUL
+2019-12-08 22:37:14,384 [main] INFO entalProject - User Profile -SUCCESSFUL
+2019-12-08 22:37:21,802 [main] INFO entalProject - Header -SUCCESSFUL
+2019-12-08 22:37:37,292 [main] INFO entalProject - User Profile -SUCCESSFUL
+2019-12-08 22:37:52,700 [main] INFO entalProject - Started Test case:- validCredentialsLogintest
+2019-12-08 22:37:56,743 [main] INFO entalProject - Application Launch -SUCCESSFUL
+2019-12-08 22:37:56,845 [main] INFO entalProject - Clicking on Login - SUCCESSFUL
+2019-12-08 22:38:02,922 [main] INFO entalProject - Login Flyout -SUCCESSFUL
+2019-12-08 22:38:03,488 [main] INFO entalProject - Populating Login credentials - SUCCESSFUL
+2019-12-08 22:38:28,297 [main] INFO entalProject - User Profile -SUCCESSFUL
+2019-12-08 23:07:55,854 [main] INFO entalProject - Started Test case:- userAccountNumbers
+2019-12-08 23:07:59,940 [main] INFO entalProject - Application Launch -SUCCESSFUL
+2019-12-08 23:08:00,094 [main] INFO entalProject - Clicking on Login - SUCCESSFUL
+2019-12-08 23:08:06,203 [main] INFO entalProject - Login Flyout -SUCCESSFUL
+2019-12-08 23:08:06,746 [main] INFO entalProject - Populating Login credentials - SUCCESSFUL
+2019-12-08 23:08:30,668 [main] INFO entalProject - User Profile -SUCCESSFUL
+2019-12-08 23:08:41,542 [main] INFO entalProject - Beneficious BreadCrumb -SUCCESSFUL
+2019-12-08 23:08:56,251 [main] INFO entalProject - User Profile -SUCCESSFUL
+2019-12-08 23:09:12,455 [main] INFO entalProject - Started Test case:- userAccountNumbers
+2019-12-08 23:09:16,495 [main] INFO entalProject - Application Launch -SUCCESSFUL
+2019-12-08 23:09:16,747 [main] INFO entalProject - Clicking on Login - SUCCESSFUL
+2019-12-08 23:09:22,833 [main] INFO entalProject - Login Flyout -SUCCESSFUL
+2019-12-08 23:09:23,346 [main] INFO entalProject - Populating Login credentials - SUCCESSFUL
+2019-12-08 23:09:50,225 [main] INFO entalProject - User Profile -SUCCESSFUL
+2019-12-08 23:09:56,986 [main] INFO entalProject - Header -SUCCESSFUL
+2019-12-08 23:10:11,585 [main] INFO entalProject - User Profile -SUCCESSFUL
+2019-12-08 23:10:27,778 [main] INFO entalProject - Started Test case:- userAccountNumbers
+2019-12-08 23:10:31,822 [main] INFO entalProject - Application Launch -SUCCESSFUL
+2019-12-08 23:10:31,998 [main] INFO entalProject - Clicking on Login - SUCCESSFUL
+2019-12-08 23:10:38,102 [main] INFO entalProject - Login Flyout -SUCCESSFUL
+2019-12-08 23:10:38,632 [main] INFO entalProject - Populating Login credentials - SUCCESSFUL
+2019-12-08 23:11:14,918 [main] INFO entalProject - User Profile -SUCCESSFUL
+2019-12-08 23:11:21,195 [main] INFO entalProject - Header -SUCCESSFUL
+2019-12-08 23:11:36,533 [main] INFO entalProject - User Profile -SUCCESSFUL
+2019-12-08 23:11:53,094 [main] INFO entalProject - Started Test case:- userAccountNumbers
+2019-12-08 23:11:57,126 [main] INFO entalProject - Application Launch -SUCCESSFUL
+2019-12-08 23:11:57,292 [main] INFO entalProject - Clicking on Login - SUCCESSFUL
+2019-12-08 23:12:03,370 [main] INFO entalProject - Login Flyout -SUCCESSFUL
+2019-12-08 23:12:03,906 [main] INFO entalProject - Populating Login credentials - SUCCESSFUL
+2019-12-08 23:12:34,979 [main] INFO entalProject - User Profile -SUCCESSFUL
+2019-12-08 23:12:43,651 [main] INFO entalProject - Default Profile Number -SUCCESSFUL
+2019-12-08 23:12:56,829 [main] INFO entalProject - Started Test case:- userAccountNumbers
+2019-12-08 23:13:00,873 [main] INFO entalProject - Application Launch -SUCCESSFUL
+2019-12-08 23:13:00,975 [main] INFO entalProject - Clicking on Login - SUCCESSFUL
+2019-12-08 23:13:07,065 [main] INFO entalProject - Login Flyout -SUCCESSFUL
+2019-12-08 23:13:07,686 [main] INFO entalProject - Populating Login credentials - SUCCESSFUL
+2019-12-08 23:13:32,881 [main] INFO entalProject - User Profile -SUCCESSFUL
+2019-12-08 23:13:39,703 [main] INFO entalProject - Header -SUCCESSFUL
+2019-12-08 23:13:55,037 [main] INFO entalProject - User Profile -SUCCESSFUL
+2019-12-08 23:14:07,938 [main] INFO entalProject - Started Test case:- userAccountNumbers
+2019-12-08 23:14:11,989 [main] INFO entalProject - Application Launch -SUCCESSFUL
+2019-12-08 23:14:12,130 [main] INFO entalProject - Clicking on Login - SUCCESSFUL
+2019-12-08 23:14:18,232 [main] INFO entalProject - Login Flyout -SUCCESSFUL
+2019-12-08 23:14:18,760 [main] INFO entalProject - Populating Login credentials - SUCCESSFUL
+2019-12-08 23:14:40,513 [main] INFO entalProject - User Profile -SUCCESSFUL
+2019-12-08 23:14:47,494 [main] INFO entalProject - Header -SUCCESSFUL
+2019-12-08 23:15:02,732 [main] INFO entalProject - User Profile -SUCCESSFUL
+2019-12-08 23:15:16,052 [main] INFO entalProject - Started Test case:- validCredentialsLogintest
+2019-12-08 23:15:20,081 [main] INFO entalProject - Application Launch -SUCCESSFUL
+2019-12-08 23:15:20,279 [main] INFO entalProject - Clicking on Login - SUCCESSFUL
+2019-12-08 23:15:26,367 [main] INFO entalProject - Login Flyout -SUCCESSFUL
+2019-12-08 23:15:26,911 [main] INFO entalProject - Populating Login credentials - SUCCESSFUL
+2019-12-08 23:15:48,819 [main] INFO entalProject - User Profile -SUCCESSFUL
+2019-12-08 23:16:05,173 [main] INFO entalProject - Mi Plan -SUCCESSFUL
+2019-12-08 23:16:19,163 [main] INFO entalProject - User Profile -SUCCESSFUL
+2019-12-08 23:16:32,595 [main] INFO entalProject - Started Test case:- userAccountNumbers
+2019-12-08 23:16:36,635 [main] INFO entalProject - Application Launch -SUCCESSFUL
+2019-12-08 23:16:36,720 [main] INFO entalProject - Clicking on Login - SUCCESSFUL
+2019-12-08 23:16:42,757 [main] INFO entalProject - Login Flyout -SUCCESSFUL
+2019-12-08 23:16:43,264 [main] INFO entalProject - Populating Login credentials - SUCCESSFUL
+2019-12-08 23:17:05,805 [main] INFO entalProject - User Profile -SUCCESSFUL
+2019-12-08 23:17:12,196 [main] INFO entalProject - Header -SUCCESSFUL
+2019-12-08 23:17:26,025 [main] INFO entalProject - User Profile -SUCCESSFUL
+2019-12-08 23:17:38,263 [main] INFO entalProject - Started Test case:- userAccountNumbers
+2019-12-08 23:17:42,296 [main] INFO entalProject - Application Launch -SUCCESSFUL
+2019-12-08 23:17:42,380 [main] INFO entalProject - Clicking on Login - SUCCESSFUL
+2019-12-08 23:17:48,419 [main] INFO entalProject - Login Flyout -SUCCESSFUL
+2019-12-08 23:17:48,927 [main] INFO entalProject - Populating Login credentials - SUCCESSFUL
+2019-12-08 23:18:12,395 [main] INFO entalProject - User Profile -SUCCESSFUL
+2019-12-08 23:18:18,671 [main] INFO entalProject - Header -SUCCESSFUL
+2019-12-08 23:18:33,321 [main] INFO entalProject - User Profile -SUCCESSFUL
+2019-12-08 23:18:48,700 [main] INFO entalProject - Started Test case:- validCredentialsLogintest
+2019-12-08 23:18:52,732 [main] INFO entalProject - Application Launch -SUCCESSFUL
+2019-12-08 23:18:52,957 [main] INFO entalProject - Clicking on Login - SUCCESSFUL
+2019-12-08 23:18:59,055 [main] INFO entalProject - Login Flyout -SUCCESSFUL
+2019-12-08 23:18:59,673 [main] INFO entalProject - Populating Login credentials - SUCCESSFUL
+2019-12-08 23:19:21,860 [main] INFO entalProject - User Profile -SUCCESSFUL
+2019-12-11 22:39:03,040 [main] INFO entalProject - Started Test case:- userAccountNumbers
+2019-12-11 22:39:07,126 [main] INFO entalProject - Application Launch -SUCCESSFUL
+2019-12-11 22:39:07,315 [main] INFO entalProject - Clicking on Login - SUCCESSFUL
+2019-12-11 22:39:13,435 [main] INFO entalProject - Login Flyout -SUCCESSFUL
+2019-12-11 22:39:14,000 [main] INFO entalProject - Populating Login credentials - SUCCESSFUL
+2019-12-11 22:39:37,917 [main] INFO entalProject - User Profile -SUCCESSFUL
+2019-12-11 22:39:46,757 [main] INFO entalProject - Beneficious BreadCrumb -SUCCESSFUL
+2019-12-11 22:40:02,032 [main] INFO entalProject - User Profile -SUCCESSFUL
+2019-12-11 22:40:15,537 [main] INFO entalProject - Started Test case:- userAccountNumbers
+2019-12-11 22:40:19,568 [main] INFO entalProject - Application Launch -SUCCESSFUL
+2019-12-11 22:40:19,656 [main] INFO entalProject - Clicking on Login - SUCCESSFUL
+2019-12-11 22:40:25,703 [main] INFO entalProject - Login Flyout -SUCCESSFUL
+2019-12-11 22:40:26,318 [main] INFO entalProject - Populating Login credentials - SUCCESSFUL
+2019-12-11 22:40:50,271 [main] INFO entalProject - User Profile -SUCCESSFUL
+2019-12-11 22:40:56,870 [main] INFO entalProject - Header -SUCCESSFUL
+2019-12-11 22:41:11,984 [main] INFO entalProject - User Profile -SUCCESSFUL
+2019-12-11 22:41:24,690 [main] INFO entalProject - Started Test case:- userAccountNumbers
+2019-12-11 22:41:28,722 [main] INFO entalProject - Application Launch -SUCCESSFUL
+2019-12-11 22:41:28,868 [main] INFO entalProject - Clicking on Login - SUCCESSFUL
+2019-12-11 22:41:34,970 [main] INFO entalProject - Login Flyout -SUCCESSFUL
+2019-12-11 22:41:35,561 [main] INFO entalProject - Populating Login credentials - SUCCESSFUL
+2019-12-11 22:42:00,715 [main] INFO entalProject - User Profile -SUCCESSFUL
+2019-12-11 22:42:10,815 [main] INFO entalProject - Header -SUCCESSFUL
+2019-12-11 22:42:24,720 [main] INFO entalProject - User Profile -SUCCESSFUL
+2019-12-11 22:42:36,765 [main] INFO entalProject - Started Test case:- userAccountNumbers
+2019-12-11 22:42:40,800 [main] INFO entalProject - Application Launch -SUCCESSFUL
+2019-12-11 22:42:41,002 [main] INFO entalProject - Clicking on Login - SUCCESSFUL
+2019-12-11 22:42:47,117 [main] INFO entalProject - Login Flyout -SUCCESSFUL
+2019-12-11 22:42:47,629 [main] INFO entalProject - Populating Login credentials - SUCCESSFUL
+2019-12-11 22:43:11,480 [main] INFO entalProject - User Profile -SUCCESSFUL
+2019-12-11 22:43:20,254 [main] INFO entalProject - Default Profile Number -SUCCESSFUL
+2019-12-11 22:43:32,066 [main] INFO entalProject - Started Test case:- userAccountNumbers
+2019-12-11 22:43:36,107 [main] INFO entalProject - Application Launch -SUCCESSFUL
+2019-12-11 22:43:36,196 [main] INFO entalProject - Clicking on Login - SUCCESSFUL
+2019-12-11 22:43:42,235 [main] INFO entalProject - Login Flyout -SUCCESSFUL
+2019-12-11 22:43:42,776 [main] INFO entalProject - Populating Login credentials - SUCCESSFUL
+2019-12-11 22:44:08,637 [main] INFO entalProject - User Profile -SUCCESSFUL
+2019-12-11 22:44:15,740 [main] INFO entalProject - Header -SUCCESSFUL
+2019-12-11 22:44:30,462 [main] INFO entalProject - User Profile -SUCCESSFUL
+2019-12-11 22:44:48,216 [main] INFO entalProject - Started Test case:- userAccountNumbers
+2019-12-11 22:44:52,248 [main] INFO entalProject - Application Launch -SUCCESSFUL
+2019-12-11 22:44:52,442 [main] INFO entalProject - Clicking on Login - SUCCESSFUL
+2019-12-11 22:44:58,526 [main] INFO entalProject - Login Flyout -SUCCESSFUL
+2019-12-11 22:44:59,149 [main] INFO entalProject - Populating Login credentials - SUCCESSFUL
+2019-12-11 22:45:22,035 [main] INFO entalProject - User Profile -SUCCESSFUL
+2019-12-11 22:45:51,933 [main] INFO entalProject - Header -SUCCESSFUL
+2019-12-11 22:46:05,899 [main] INFO entalProject - User Profile -SUCCESSFUL
+2019-12-11 22:46:20,246 [main] INFO entalProject - Started Test case:- validCredentialsLogintest
+2019-12-11 22:46:24,288 [main] INFO entalProject - Application Launch -SUCCESSFUL
+2019-12-11 22:46:24,458 [main] INFO entalProject - Clicking on Login - SUCCESSFUL
+2019-12-11 22:46:30,560 [main] INFO entalProject - Login Flyout -SUCCESSFUL
+2019-12-11 22:46:31,143 [main] INFO entalProject - Populating Login credentials - SUCCESSFUL
+2019-12-11 22:46:54,940 [main] INFO entalProject - User Profile -SUCCESSFUL
+2019-12-11 22:47:11,436 [main] INFO entalProject - Mi Plan -SUCCESSFUL
+2019-12-11 22:47:25,692 [main] INFO entalProject - User Profile -SUCCESSFUL
+2019-12-11 22:47:45,762 [main] INFO entalProject - Started Test case:- userAccountNumbers
+2019-12-11 22:47:49,790 [main] INFO entalProject - Application Launch -SUCCESSFUL
+2019-12-11 22:47:49,973 [main] INFO entalProject - Clicking on Login - SUCCESSFUL
+2019-12-11 22:47:56,073 [main] INFO entalProject - Login Flyout -SUCCESSFUL
+2019-12-11 22:47:56,642 [main] INFO entalProject - Populating Login credentials - SUCCESSFUL
+2019-12-11 22:48:19,651 [main] INFO entalProject - User Profile -SUCCESSFUL
+2019-12-11 22:48:26,074 [main] INFO entalProject - Header -SUCCESSFUL
+2019-12-11 22:48:40,228 [main] INFO entalProject - User Profile -SUCCESSFUL
+2019-12-11 22:48:55,223 [main] INFO entalProject - Started Test case:- userAccountNumbers
+2019-12-11 22:48:59,256 [main] INFO entalProject - Application Launch -SUCCESSFUL
+2019-12-11 22:48:59,398 [main] INFO entalProject - Clicking on Login - SUCCESSFUL
+2019-12-11 22:49:05,483 [main] INFO entalProject - Login Flyout -SUCCESSFUL
+2019-12-11 22:49:06,044 [main] INFO entalProject - Populating Login credentials - SUCCESSFUL
+2019-12-11 22:49:31,470 [main] INFO entalProject - User Profile -SUCCESSFUL
+2019-12-11 22:49:39,540 [main] INFO entalProject - Header -SUCCESSFUL
+2019-12-11 22:49:53,800 [main] INFO entalProject - User Profile -SUCCESSFUL
+2019-12-11 22:50:10,009 [main] INFO entalProject - Started Test case:- validCredentialsLogintest
+2019-12-11 22:50:14,048 [main] INFO entalProject - Application Launch -SUCCESSFUL
+2019-12-11 22:50:14,138 [main] INFO entalProject - Clicking on Login - SUCCESSFUL
+2019-12-11 22:50:20,247 [main] INFO entalProject - Login Flyout -SUCCESSFUL
+2019-12-11 22:50:20,757 [main] INFO entalProject - Populating Login credentials - SUCCESSFUL
+2019-12-11 22:50:45,029 [main] INFO entalProject - User Profile -SUCCESSFUL
+2019-12-11 23:14:10,339 [main] INFO entalProject - Started Test case:- userAccountNumbers
+2019-12-11 23:14:14,397 [main] INFO entalProject - Application Launch -SUCCESSFUL
+2019-12-11 23:14:14,631 [main] INFO entalProject - Clicking on Login - SUCCESSFUL
+2019-12-11 23:14:20,716 [main] INFO entalProject - Login Flyout -SUCCESSFUL
+2019-12-11 23:14:21,293 [main] INFO entalProject - Populating Login credentials - SUCCESSFUL
+2019-12-11 23:14:43,758 [main] INFO entalProject - User Profile -SUCCESSFUL
+2019-12-11 23:14:52,760 [main] INFO entalProject - Beneficious BreadCrumb -SUCCESSFUL
+2019-12-11 23:15:07,555 [main] INFO entalProject - User Profile -SUCCESSFUL
+2019-12-11 23:15:20,694 [main] INFO entalProject - Started Test case:- userAccountNumbers
+2019-12-11 23:15:24,735 [main] INFO entalProject - Application Launch -SUCCESSFUL
+2019-12-11 23:15:24,891 [main] INFO entalProject - Clicking on Login - SUCCESSFUL
+2019-12-11 23:15:30,987 [main] INFO entalProject - Login Flyout -SUCCESSFUL
+2019-12-11 23:15:31,705 [main] INFO entalProject - Populating Login credentials - SUCCESSFUL
+2019-12-11 23:15:56,449 [main] INFO entalProject - User Profile -SUCCESSFUL
+2019-12-11 23:16:02,178 [main] INFO entalProject - Header -SUCCESSFUL
+2019-12-11 23:16:16,198 [main] INFO entalProject - User Profile -SUCCESSFUL
+2019-12-11 23:16:28,452 [main] INFO entalProject - Started Test case:- userAccountNumbers
+2019-12-11 23:16:32,491 [main] INFO entalProject - Application Launch -SUCCESSFUL
+2019-12-11 23:16:32,642 [main] INFO entalProject - Clicking on Login - SUCCESSFUL
+2019-12-11 23:16:38,703 [main] INFO entalProject - Login Flyout -SUCCESSFUL
+2019-12-11 23:16:39,334 [main] INFO entalProject - Populating Login credentials - SUCCESSFUL
+2019-12-11 23:17:00,027 [main] INFO entalProject - User Profile -SUCCESSFUL
+2019-12-11 23:17:09,025 [main] INFO entalProject - Header -SUCCESSFUL
+2019-12-11 23:17:24,095 [main] INFO entalProject - User Profile -SUCCESSFUL
+2019-12-11 23:17:39,222 [main] INFO entalProject - Started Test case:- userAccountNumbers
+2019-12-11 23:17:43,258 [main] INFO entalProject - Application Launch -SUCCESSFUL
+2019-12-11 23:17:43,468 [main] INFO entalProject - Clicking on Login - SUCCESSFUL
+2019-12-11 23:17:49,544 [main] INFO entalProject - Login Flyout -SUCCESSFUL
+2019-12-11 23:17:50,192 [main] INFO entalProject - Populating Login credentials - SUCCESSFUL
+2019-12-11 23:18:11,298 [main] INFO entalProject - User Profile -SUCCESSFUL
+2019-12-11 23:18:19,849 [main] INFO entalProject - Default Profile Number -SUCCESSFUL
+2019-12-11 23:18:31,555 [main] INFO entalProject - Started Test case:- userAccountNumbers
+2019-12-11 23:18:35,599 [main] INFO entalProject - Application Launch -SUCCESSFUL
+2019-12-11 23:18:35,715 [main] INFO entalProject - Clicking on Login - SUCCESSFUL
+2019-12-11 23:18:41,745 [main] INFO entalProject - Login Flyout -SUCCESSFUL
+2019-12-11 23:18:42,340 [main] INFO entalProject - Populating Login credentials - SUCCESSFUL
+2019-12-11 23:19:03,911 [main] INFO entalProject - User Profile -SUCCESSFUL
+2019-12-11 23:19:10,156 [main] INFO entalProject - Header -SUCCESSFUL
+2019-12-11 23:19:24,777 [main] INFO entalProject - User Profile -SUCCESSFUL
+2019-12-11 23:19:40,182 [main] INFO entalProject - Started Test case:- userAccountNumbers
+2019-12-11 23:19:44,219 [main] INFO entalProject - Application Launch -SUCCESSFUL
+2019-12-11 23:19:44,393 [main] INFO entalProject - Clicking on Login - SUCCESSFUL
+2019-12-11 23:19:50,440 [main] INFO entalProject - Login Flyout -SUCCESSFUL
+2019-12-11 23:19:51,102 [main] INFO entalProject - Populating Login credentials - SUCCESSFUL
+2019-12-11 23:20:13,222 [main] INFO entalProject - User Profile -SUCCESSFUL
+2019-12-11 23:20:20,789 [main] INFO entalProject - Header -SUCCESSFUL
+2019-12-11 23:20:35,481 [main] INFO entalProject - User Profile -SUCCESSFUL
+2019-12-11 23:20:47,748 [main] INFO entalProject - Started Test case:- validCredentialsLogintest
+2019-12-11 23:20:51,785 [main] INFO entalProject - Application Launch -SUCCESSFUL
+2019-12-11 23:20:51,900 [main] INFO entalProject - Clicking on Login - SUCCESSFUL
+2019-12-11 23:20:57,971 [main] INFO entalProject - Login Flyout -SUCCESSFUL
+2019-12-11 23:20:58,621 [main] INFO entalProject - Populating Login credentials - SUCCESSFUL
+2019-12-11 23:21:19,733 [main] INFO entalProject - User Profile -SUCCESSFUL
+2019-12-11 23:21:35,170 [main] INFO entalProject - Mi Plan -SUCCESSFUL
+2019-12-11 23:21:49,889 [main] INFO entalProject - User Profile -SUCCESSFUL
+2019-12-11 23:22:03,547 [main] INFO entalProject - Started Test case:- userAccountNumbers
+2019-12-11 23:22:07,585 [main] INFO entalProject - Application Launch -SUCCESSFUL
+2019-12-11 23:22:07,697 [main] INFO entalProject - Clicking on Login - SUCCESSFUL
+2019-12-11 23:22:13,786 [main] INFO entalProject - Login Flyout -SUCCESSFUL
+2019-12-11 23:22:14,424 [main] INFO entalProject - Populating Login credentials - SUCCESSFUL
+2019-12-11 23:22:35,656 [main] INFO entalProject - User Profile -SUCCESSFUL
+2019-12-11 23:22:42,484 [main] INFO entalProject - Header -SUCCESSFUL
+2019-12-11 23:22:57,099 [main] INFO entalProject - User Profile -SUCCESSFUL
+2019-12-11 23:23:12,557 [main] INFO entalProject - Started Test case:- userAccountNumbers
+2019-12-11 23:23:16,594 [main] INFO entalProject - Application Launch -SUCCESSFUL
+2019-12-11 23:23:16,745 [main] INFO entalProject - Clicking on Login - SUCCESSFUL
+2019-12-11 23:23:22,819 [main] INFO entalProject - Login Flyout -SUCCESSFUL
+2019-12-11 23:23:23,396 [main] INFO entalProject - Populating Login credentials - SUCCESSFUL
+2019-12-11 23:23:44,491 [main] INFO entalProject - User Profile -SUCCESSFUL
+2019-12-11 23:23:50,823 [main] INFO entalProject - Header -SUCCESSFUL
+2019-12-11 23:24:05,222 [main] INFO entalProject - User Profile -SUCCESSFUL
+2019-12-11 23:24:34,873 [main] INFO entalProject - Started Test case:- validCredentialsLogintest
+2019-12-11 23:24:38,907 [main] INFO entalProject - Application Launch -SUCCESSFUL
+2019-12-11 23:24:39,057 [main] INFO entalProject - Clicking on Login - SUCCESSFUL
+2019-12-11 23:24:45,117 [main] INFO entalProject - Login Flyout -SUCCESSFUL
+2019-12-11 23:24:45,665 [main] INFO entalProject - Populating Login credentials - SUCCESSFUL
+2019-12-11 23:25:08,163 [main] INFO entalProject - User Profile -SUCCESSFUL
+2019-12-11 23:37:46,022 [main] INFO entalProject - Started Test case:- userAccountNumbers
+2019-12-11 23:37:50,083 [main] INFO entalProject - Application Launch -SUCCESSFUL
+2019-12-11 23:37:50,221 [main] INFO entalProject - Clicking on Login - SUCCESSFUL
+2019-12-11 23:37:56,289 [main] INFO entalProject - Login Flyout -SUCCESSFUL
+2019-12-11 23:37:56,918 [main] INFO entalProject - Populating Login credentials - SUCCESSFUL
+2019-12-11 23:47:26,343 [main] INFO entalProject - Started Test case:- userAccountNumbers
+2019-12-11 23:47:30,397 [main] INFO entalProject - Application Launch -SUCCESSFUL
+2019-12-11 23:47:30,490 [main] INFO entalProject - Clicking on Login - SUCCESSFUL
+2019-12-11 23:47:36,525 [main] INFO entalProject - Login Flyout -SUCCESSFUL
+2019-12-11 23:47:37,158 [main] INFO entalProject - Populating Login credentials - SUCCESSFUL
+2019-12-11 23:48:20,836 [main] INFO entalProject - User Profile -SUCCESSFUL
+2019-12-11 23:48:26,550 [main] INFO entalProject - Beneficious BreadCrumb -SUCCESSFUL
+2019-12-11 23:48:53,976 [main] INFO entalProject - User Profile -SUCCESSFUL
+2019-12-11 23:49:05,561 [main] INFO entalProject - Started Test case:- userAccountNumbers
+2019-12-11 23:49:09,607 [main] INFO entalProject - Application Launch -SUCCESSFUL
+2019-12-11 23:49:09,711 [main] INFO entalProject - Clicking on Login - SUCCESSFUL
+2019-12-11 23:49:15,765 [main] INFO entalProject - Login Flyout -SUCCESSFUL
+2019-12-11 23:49:16,399 [main] INFO entalProject - Populating Login credentials - SUCCESSFUL
+2019-12-11 23:49:58,656 [main] INFO entalProject - User Profile -SUCCESSFUL
+2019-12-11 23:50:06,214 [main] INFO entalProject - Header -SUCCESSFUL
+2019-12-11 23:50:41,117 [main] INFO entalProject - User Profile -SUCCESSFUL
+2019-12-11 23:50:53,747 [main] INFO entalProject - Started Test case:- userAccountNumbers
+2019-12-11 23:50:57,782 [main] INFO entalProject - Application Launch -SUCCESSFUL
+2019-12-11 23:50:57,948 [main] INFO entalProject - Clicking on Login - SUCCESSFUL
+2019-12-11 23:51:04,012 [main] INFO entalProject - Login Flyout -SUCCESSFUL
+2019-12-11 23:51:04,644 [main] INFO entalProject - Populating Login credentials - SUCCESSFUL
+2019-12-11 23:51:26,086 [main] INFO entalProject - User Profile -SUCCESSFUL
+2019-12-11 23:51:32,737 [main] INFO entalProject - Header -SUCCESSFUL
+2019-12-11 23:51:47,276 [main] INFO entalProject - User Profile -SUCCESSFUL
+2019-12-11 23:52:00,018 [main] INFO entalProject - Started Test case:- userAccountNumbers
+2019-12-11 23:52:04,054 [main] INFO entalProject - Application Launch -SUCCESSFUL
+2019-12-11 23:52:04,142 [main] INFO entalProject - Clicking on Login - SUCCESSFUL
+2019-12-11 23:52:10,173 [main] INFO entalProject - Login Flyout -SUCCESSFUL
+2019-12-11 23:52:10,793 [main] INFO entalProject - Populating Login credentials - SUCCESSFUL
+2019-12-11 23:52:32,276 [main] INFO entalProject - User Profile -SUCCESSFUL
+2019-12-11 23:52:40,691 [main] INFO entalProject - Default Profile Number -SUCCESSFUL
+2019-12-11 23:52:53,478 [main] INFO entalProject - Started Test case:- userAccountNumbers
+2019-12-11 23:52:57,516 [main] INFO entalProject - Application Launch -SUCCESSFUL
+2019-12-11 23:52:57,633 [main] INFO entalProject - Clicking on Login - SUCCESSFUL
+2019-12-11 23:53:03,686 [main] INFO entalProject - Login Flyout -SUCCESSFUL
+2019-12-11 23:53:04,345 [main] INFO entalProject - Populating Login credentials - SUCCESSFUL
+2019-12-11 23:53:25,829 [main] INFO entalProject - User Profile -SUCCESSFUL
+2019-12-11 23:53:31,288 [main] INFO entalProject - Header -SUCCESSFUL
+2019-12-11 23:53:46,249 [main] INFO entalProject - User Profile -SUCCESSFUL
+2019-12-11 23:53:58,250 [main] INFO entalProject - Started Test case:- userAccountNumbers
+2019-12-11 23:54:02,286 [main] INFO entalProject - Application Launch -SUCCESSFUL
+2019-12-11 23:54:02,384 [main] INFO entalProject - Clicking on Login - SUCCESSFUL
+2019-12-11 23:54:08,459 [main] INFO entalProject - Login Flyout -SUCCESSFUL
+2019-12-11 23:54:09,110 [main] INFO entalProject - Populating Login credentials - SUCCESSFUL
+2019-12-11 23:54:30,178 [main] INFO entalProject - User Profile -SUCCESSFUL
+2019-12-11 23:54:37,868 [main] INFO entalProject - Header -SUCCESSFUL
+2019-12-11 23:54:52,540 [main] INFO entalProject - User Profile -SUCCESSFUL
+2019-12-11 23:55:04,526 [main] INFO entalProject - Started Test case:- validCredentialsLogintest
+2019-12-11 23:55:08,562 [main] INFO entalProject - Application Launch -SUCCESSFUL
+2019-12-11 23:55:08,646 [main] INFO entalProject - Clicking on Login - SUCCESSFUL
+2019-12-11 23:55:14,675 [main] INFO entalProject - Login Flyout -SUCCESSFUL
+2019-12-11 23:55:15,313 [main] INFO entalProject - Populating Login credentials - SUCCESSFUL
+2019-12-11 23:55:39,109 [main] INFO entalProject - User Profile -SUCCESSFUL
+2019-12-11 23:55:57,955 [main] INFO entalProject - Mi Plan -SUCCESSFUL
+2019-12-11 23:56:12,485 [main] INFO entalProject - User Profile -SUCCESSFUL
+2019-12-11 23:56:26,072 [main] INFO entalProject - Started Test case:- userAccountNumbers
+2019-12-11 23:56:30,108 [main] INFO entalProject - Application Launch -SUCCESSFUL
+2019-12-11 23:56:30,317 [main] INFO entalProject - Clicking on Login - SUCCESSFUL
+2019-12-11 23:56:36,381 [main] INFO entalProject - Login Flyout -SUCCESSFUL
+2019-12-11 23:56:36,976 [main] INFO entalProject - Populating Login credentials - SUCCESSFUL
+2019-12-11 23:56:58,822 [main] INFO entalProject - User Profile -SUCCESSFUL
+2019-12-11 23:57:04,558 [main] INFO entalProject - Header -SUCCESSFUL
+2019-12-11 23:57:20,702 [main] INFO entalProject - User Profile -SUCCESSFUL
+2019-12-11 23:57:32,258 [main] INFO entalProject - Started Test case:- userAccountNumbers
+2019-12-11 23:57:36,298 [main] INFO entalProject - Application Launch -SUCCESSFUL
+2019-12-11 23:57:36,388 [main] INFO entalProject - Clicking on Login - SUCCESSFUL
+2019-12-11 23:57:42,457 [main] INFO entalProject - Login Flyout -SUCCESSFUL
+2019-12-11 23:57:43,085 [main] INFO entalProject - Populating Login credentials - SUCCESSFUL
+2019-12-11 23:58:06,035 [main] INFO entalProject - User Profile -SUCCESSFUL
+2019-12-11 23:58:11,462 [main] INFO entalProject - Header -SUCCESSFUL
+2019-12-11 23:58:26,334 [main] INFO entalProject - User Profile -SUCCESSFUL
+2019-12-11 23:58:38,570 [main] INFO entalProject - Started Test case:- validCredentialsLogintest
+2019-12-11 23:58:42,608 [main] INFO entalProject - Application Launch -SUCCESSFUL
+2019-12-11 23:58:42,715 [main] INFO entalProject - Clicking on Login - SUCCESSFUL
+2019-12-11 23:58:48,786 [main] INFO entalProject - Login Flyout -SUCCESSFUL
+2019-12-11 23:58:49,407 [main] INFO entalProject - Populating Login credentials - SUCCESSFUL
+2019-12-11 23:59:12,092 [main] INFO entalProject - User Profile -SUCCESSFUL
+2019-12-16 23:20:27,393 [main] INFO entalProject - Started Test case:- userAccountNumbers
+2019-12-16 23:20:31,478 [main] INFO entalProject - Application Launch -SUCCESSFUL
+2019-12-16 23:20:31,599 [main] INFO entalProject - Clicking on Login - SUCCESSFUL
+2019-12-16 23:20:37,668 [main] INFO entalProject - Login Flyout -SUCCESSFUL
+2019-12-16 23:20:38,085 [main] INFO entalProject - Populating Login credentials - SUCCESSFUL
+2019-12-16 23:20:59,142 [main] INFO entalProject - User Profile -SUCCESSFUL
+2019-12-16 23:21:04,901 [main] INFO entalProject - Beneficious BreadCrumb -SUCCESSFUL
+2019-12-16 23:21:19,266 [main] INFO entalProject - User Profile -SUCCESSFUL
+2019-12-16 23:37:07,665 [main] INFO entalProject - Started Test case:- userAccountNumbers
+2019-12-16 23:37:11,709 [main] INFO entalProject - Application Launch -SUCCESSFUL
+2019-12-16 23:37:11,790 [main] INFO entalProject - Clicking on Login - SUCCESSFUL
+2019-12-16 23:37:17,862 [main] INFO entalProject - Login Flyout -SUCCESSFUL
+2019-12-16 23:37:18,280 [main] INFO entalProject - Populating Login credentials - SUCCESSFUL
+2019-12-16 23:37:38,970 [main] INFO entalProject - User Profile -SUCCESSFUL
+2019-12-16 23:37:44,829 [main] INFO entalProject - Beneficious BreadCrumb -SUCCESSFUL
+2019-12-16 23:37:59,149 [main] INFO entalProject - User Profile -SUCCESSFUL
+2019-12-16 23:45:45,344 [main] INFO entalProject - Started Test case:- beneficiousEntelPageValidation
+2019-12-16 23:45:49,415 [main] INFO entalProject - Application Launch -SUCCESSFUL
+2019-12-16 23:45:49,585 [main] INFO entalProject - Clicking on Login - SUCCESSFUL
+2019-12-16 23:45:55,668 [main] INFO entalProject - Login Flyout -SUCCESSFUL
+2019-12-16 23:45:56,082 [main] INFO entalProject - Populating Login credentials - SUCCESSFUL
+2019-12-16 23:46:18,017 [main] INFO entalProject - User Profile -SUCCESSFUL
+2019-12-16 23:46:26,590 [main] INFO entalProject - Beneficious BreadCrumb -SUCCESSFUL
+2019-12-16 23:46:41,298 [main] INFO entalProject - User Profile -SUCCESSFUL
+2019-12-16 23:46:53,830 [main] INFO entalProject - Started Test case:- configuracionPageValidation
+2019-12-16 23:46:57,870 [main] INFO entalProject - Application Launch -SUCCESSFUL
+2019-12-16 23:46:57,970 [main] INFO entalProject - Clicking on Login - SUCCESSFUL
+2019-12-16 23:47:04,046 [main] INFO entalProject - Login Flyout -SUCCESSFUL
+2019-12-16 23:47:04,546 [main] INFO entalProject - Populating Login credentials - SUCCESSFUL
+2019-12-16 23:47:27,445 [main] INFO entalProject - User Profile -SUCCESSFUL
+2019-12-16 23:47:34,875 [main] INFO entalProject - Header -SUCCESSFUL
+2019-12-16 23:47:49,566 [main] INFO entalProject - User Profile -SUCCESSFUL
+2019-12-16 23:48:01,356 [main] INFO entalProject - Started Test case:- consumoPageValidation
+2019-12-16 23:48:05,389 [main] INFO entalProject - Application Launch -SUCCESSFUL
+2019-12-16 23:48:05,486 [main] INFO entalProject - Clicking on Login - SUCCESSFUL
+2019-12-16 23:48:11,570 [main] INFO entalProject - Login Flyout -SUCCESSFUL
+2019-12-16 23:48:12,058 [main] INFO entalProject - Populating Login credentials - SUCCESSFUL
+2019-12-16 23:48:34,796 [main] INFO entalProject - User Profile -SUCCESSFUL
+2019-12-16 23:48:41,302 [main] INFO entalProject - Header -SUCCESSFUL
+2019-12-16 23:48:55,853 [main] INFO entalProject - User Profile -SUCCESSFUL
+2019-12-16 23:49:08,023 [main] INFO entalProject - Started Test case:- userAccountNumbers
+2019-12-16 23:49:12,062 [main] INFO entalProject - Application Launch -SUCCESSFUL
+2019-12-16 23:49:12,158 [main] INFO entalProject - Clicking on Login - SUCCESSFUL
+2019-12-16 23:49:18,269 [main] INFO entalProject - Login Flyout -SUCCESSFUL
+2019-12-16 23:49:18,681 [main] INFO entalProject - Populating Login credentials - SUCCESSFUL
+2019-12-16 23:49:40,929 [main] INFO entalProject - User Profile -SUCCESSFUL
+2019-12-16 23:49:49,543 [main] INFO entalProject - Default Profile Number -SUCCESSFUL
+2019-12-16 23:49:59,747 [main] INFO entalProject - Started Test case:- equipoPageValidation
+2019-12-16 23:50:03,802 [main] INFO entalProject - Application Launch -SUCCESSFUL
+2019-12-16 23:50:03,957 [main] INFO entalProject - Clicking on Login - SUCCESSFUL
+2019-12-16 23:50:10,033 [main] INFO entalProject - Login Flyout -SUCCESSFUL
+2019-12-16 23:50:10,509 [main] INFO entalProject - Populating Login credentials - SUCCESSFUL
+2019-12-16 23:50:32,305 [main] INFO entalProject - User Profile -SUCCESSFUL
+2019-12-16 23:50:40,885 [main] INFO entalProject - Header -SUCCESSFUL
+2019-12-16 23:50:55,310 [main] INFO entalProject - User Profile -SUCCESSFUL
+2019-12-16 23:51:07,273 [main] INFO entalProject - Started Test case:- myBallotValidation
+2019-12-16 23:51:11,318 [main] INFO entalProject - Application Launch -SUCCESSFUL
+2019-12-16 23:51:11,477 [main] INFO entalProject - Clicking on Login - SUCCESSFUL
+2019-12-16 23:51:17,522 [main] INFO entalProject - Login Flyout -SUCCESSFUL
+2019-12-16 23:51:17,921 [main] INFO entalProject - Populating Login credentials - SUCCESSFUL
+2019-12-16 23:51:38,896 [main] INFO entalProject - User Profile -SUCCESSFUL
+2019-12-16 23:51:47,930 [main] INFO entalProject - Header -SUCCESSFUL
+2019-12-16 23:52:02,181 [main] INFO entalProject - User Profile -SUCCESSFUL
+2019-12-16 23:52:15,458 [main] INFO entalProject - Started Test case:- myPlanValidation
+2019-12-16 23:52:19,561 [main] INFO entalProject - Application Launch -SUCCESSFUL
+2019-12-16 23:52:19,658 [main] INFO entalProject - Clicking on Login - SUCCESSFUL
+2019-12-16 23:52:25,748 [main] INFO entalProject - Login Flyout -SUCCESSFUL
+2019-12-16 23:52:26,165 [main] INFO entalProject - Populating Login credentials - SUCCESSFUL
+2019-12-16 23:52:47,180 [main] INFO entalProject - User Profile -SUCCESSFUL
+2019-12-16 23:53:03,748 [main] INFO entalProject - Mi Plan -SUCCESSFUL
+2019-12-16 23:53:18,305 [main] INFO entalProject - User Profile -SUCCESSFUL
+2019-12-16 23:53:29,607 [main] INFO entalProject - Started Test case:- recargarPageValidation
+2019-12-16 23:53:33,642 [main] INFO entalProject - Application Launch -SUCCESSFUL
+2019-12-16 23:53:33,737 [main] INFO entalProject - Clicking on Login - SUCCESSFUL
+2019-12-16 23:53:39,829 [main] INFO entalProject - Login Flyout -SUCCESSFUL
+2019-12-16 23:53:40,262 [main] INFO entalProject - Populating Login credentials - SUCCESSFUL
+2019-12-16 23:54:01,280 [main] INFO entalProject - User Profile -SUCCESSFUL
+2019-12-16 23:54:07,541 [main] INFO entalProject - Header -SUCCESSFUL
+2019-12-16 23:54:21,210 [main] INFO entalProject - User Profile -SUCCESSFUL
+2019-12-16 23:54:32,517 [main] INFO entalProject - Started Test case:- roamingPageValidation
+2019-12-16 23:54:36,583 [main] INFO entalProject - Application Launch -SUCCESSFUL
+2019-12-16 23:54:36,683 [main] INFO entalProject - Clicking on Login - SUCCESSFUL
+2019-12-16 23:54:42,716 [main] INFO entalProject - Login Flyout -SUCCESSFUL
+2019-12-16 23:54:43,120 [main] INFO entalProject - Populating Login credentials - SUCCESSFUL
+2019-12-16 23:55:08,615 [main] INFO entalProject - User Profile -SUCCESSFUL
+2019-12-16 23:55:17,596 [main] INFO entalProject - Header -SUCCESSFUL
+2019-12-16 23:55:32,613 [main] INFO entalProject - User Profile -SUCCESSFUL
+2019-12-16 23:55:44,993 [main] INFO entalProject - Started Test case:- validCredentialsLogintest
+2019-12-16 23:55:49,024 [main] INFO entalProject - Application Launch -SUCCESSFUL
+2019-12-16 23:55:49,166 [main] INFO entalProject - Clicking on Login - SUCCESSFUL
+2019-12-16 23:55:55,245 [main] INFO entalProject - Login Flyout -SUCCESSFUL
+2019-12-16 23:55:55,648 [main] INFO entalProject - Populating Login credentials - SUCCESSFUL
+2019-12-16 23:56:18,128 [main] INFO entalProject - User Profile -SUCCESSFUL
+2019-12-18 23:49:53,267 [main] INFO entalProject - Started Test case:- userAccountNumbers
+2019-12-18 23:49:57,646 [main] INFO entalProject - Application Launch -SUCCESSFUL
+2019-12-18 23:49:57,771 [main] INFO entalProject - Clicking on Login - SUCCESSFUL
+2019-12-18 23:50:03,853 [main] INFO entalProject - Login Flyout -SUCCESSFUL
+2019-12-18 23:50:04,281 [main] INFO entalProject - Populating Login credentials - SUCCESSFUL
+2019-12-18 23:50:25,206 [main] INFO entalProject - User Profile -SUCCESSFUL
+2019-12-18 23:50:30,631 [main] INFO entalProject - Left Nav Links -SUCCESSFUL
+2019-12-18 23:50:54,408 [main] INFO entalProject - Left Nav Links -SUCCESSFUL
+2019-12-18 23:53:01,198 [main] INFO entalProject - Started Test case:- userAccountNumbers
+2019-12-18 23:53:05,248 [main] INFO entalProject - Application Launch -SUCCESSFUL
+2019-12-18 23:53:05,477 [main] INFO entalProject - Clicking on Login - SUCCESSFUL
+2019-12-18 23:53:11,540 [main] INFO entalProject - Login Flyout -SUCCESSFUL
+2019-12-18 23:53:12,029 [main] INFO entalProject - Populating Login credentials - SUCCESSFUL
+2019-12-18 23:53:34,050 [main] INFO entalProject - User Profile -SUCCESSFUL
+2019-12-18 23:53:38,948 [main] INFO entalProject - Left Nav Links -SUCCESSFUL
+2019-12-18 23:53:38,949 [main] INFO entalProject - Checking SS user links - SUCCESSFUL
+2019-12-18 23:54:02,520 [main] INFO entalProject - Left Nav Links -SUCCESSFUL
+2019-12-18 23:54:02,521 [main] INFO entalProject - Checking CC user links - SUCCESSFUL
+2019-12-19 00:10:37,823 [main] INFO entalProject - Started Test case:- bolsasPageValidation
+2019-12-19 00:10:41,885 [main] INFO entalProject - Application Launch -SUCCESSFUL
+2019-12-19 00:10:42,094 [main] INFO entalProject - Clicking on Login - SUCCESSFUL
+2019-12-19 00:10:48,215 [main] INFO entalProject - Login Flyout -SUCCESSFUL
+2019-12-19 00:10:48,635 [main] INFO entalProject - Populating Login credentials - SUCCESSFUL
+2019-12-19 00:11:08,659 [main] INFO entalProject - User Profile -SUCCESSFUL
+2019-12-19 00:11:33,007 [main] INFO entalProject - Header -SUCCESSFUL
+2019-12-19 00:11:46,896 [main] INFO entalProject - User Profile -SUCCESSFUL

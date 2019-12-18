@@ -2,6 +2,7 @@ package com.entel.pages;
 
 import java.util.List;
 
+import org.junit.Assert;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
@@ -41,6 +42,8 @@ public class HomePage extends AbstractBasePage implements IHomePage {
 	@FindBy(xpath="//div[contains(@class,'user-info-box')]/div[@class='user-info']")
 	WebElement userProfile;
 	
+	@FindBy(xpath="//span[@class='icon-close-overly']/parent::button")
+	WebElement closeFlyout;
 	
 	
 	
@@ -53,6 +56,7 @@ public class HomePage extends AbstractBasePage implements IHomePage {
 	
 	public boolean isHomePageDisplayed() {
 		waitForPageLoad();
+		checkElement(isElementDiaplayed(userProfile),"User Profile");
 		return isElementDiaplayed(userProfile); 
 	}
 
@@ -184,11 +188,18 @@ public class HomePage extends AbstractBasePage implements IHomePage {
 	}
 
 	public void displayUserAccountNumbers() {
-		int num = getProfileCount();
-		for(int i=0;i<num;i++) {
-			String phoneNum = getProfile(i).getPhoneNumber();
-			System.out.println(phoneNum);
+		if(isElementDiaplayed(expandCollapseIcon)) {
+			expandProfile();
+			int num = getProfileCount();
+			for(int i=0;i<num;i++) {
+				String phoneNum = getProfile(i).getPhoneNumber();
+				System.out.println(phoneNum);
+			}
+			collapseProfile();
+		} else {
+			System.out.println("User does not have other profiles");
 		}
+		
 	}
 
 	public String getDefaultPhoneNumber() {	
@@ -198,6 +209,32 @@ public class HomePage extends AbstractBasePage implements IHomePage {
 	public String getUserName() {
 		return userProfile.findElement(By.xpath("./p[1]")).getText();
 	}
-	
+
+	public boolean validateGivenLeftNavLink(String[] initialArray) {
+		boolean flag = true;
+		for(int i=0;i<initialArray.length;i++) {
+			String str = initialArray[i];
+			flag = isLinkDisplayed(str);
+			if(flag==false) {
+				System.out.println("Found issue with: "+str);
+				break;
+			}
+		}
+		
+		return flag;
+	}
+
+	private boolean isLinkDisplayed(String expString) {
+		boolean flag = false;
+		int num = getLeftNavLinkCount();
+		for(int i=0;i<num;i++) {
+			String currentLinkName = getLeftNavLinks(i).getName();
+			if(currentLinkName.trim().toLowerCase().equals(expString.trim().toLowerCase())) {
+				flag = true;
+				break;
+			}
+		}
+		return flag;
+	}
 	
 }
