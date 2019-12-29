@@ -58,9 +58,8 @@ public class LoginFlyout extends AbstractBasePage implements ILoginFlyout {
 	}
 	
 	public void clickOnLoginButton() {
-		sleep(2);
 		clickAnElement(loginButton);
-		waitForPageLoad();
+		sleep(3);
 	}
 
 	public boolean isInvalidUserErrorMessageDisplayed() {
@@ -70,7 +69,7 @@ public class LoginFlyout extends AbstractBasePage implements ILoginFlyout {
 
 	public boolean isInvalidRUTErrorMessageDisplayed() {
 		sleep(2);
-		return isElementDiaplayed(rutErrorWarning);
+		return isElementDiaplayed(globalErrorWarning);
 	}
 		
 	

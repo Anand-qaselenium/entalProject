@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="TestSuite" time="547.16" tests="10" errors="0" skipped="0" failures="0">
+<testsuite name="TestSuite" time="809.612" tests="13" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="java.vm.version" value="11.0.2+9-LTS"/>
@@ -64,14 +64,17 @@
     <property name="sun.desktop" value="windows"/>
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
-  <testcase name="beneficiousEntelPageValidation" classname="com.entel.tests.TC_BeneficiousEntelPageValidation" time="58.141"/>
-  <testcase name="configuracionPageValidation" classname="com.entel.tests.TC_ConfiguracionPageValidation" time="57.849"/>
-  <testcase name="consumoPageValidation" classname="com.entel.tests.TC_ConsumoPageValidation" time="56.619"/>
-  <testcase name="userAccountNumbers" classname="com.entel.tests.TC_DisplayAllUserAccount" time="43.636"/>
-  <testcase name="equipoPageValidation" classname="com.entel.tests.TC_EquipoPageValidation" time="57.711"/>
-  <testcase name="myBallotValidation" classname="com.entel.tests.TC_MyBallotValidation" time="57.054"/>
-  <testcase name="myPlanValidation" classname="com.entel.tests.TC_MyPlanValidation" time="64.99"/>
-  <testcase name="recargarPageValidation" classname="com.entel.tests.TC_RecargarPageValidation" time="53.708"/>
-  <testcase name="roamingPageValidation" classname="com.entel.tests.TC_RoamingPageValidation" time="62.183"/>
-  <testcase name="validCredentialsLogintest" classname="com.entel.tests.TC_ValidLoginTest" time="35.269"/>
+  <testcase name="beneficiousEntelPageValidation" classname="com.entel.tests.TC_BeneficiousEntelPageValidation" time="71.62"/>
+  <testcase name="configuracionPageValidation" classname="com.entel.tests.TC_ConfiguracionPageValidation" time="59.664"/>
+  <testcase name="consumoPageValidation" classname="com.entel.tests.TC_ConsumoPageValidation" time="58.895"/>
+  <testcase name="userAccountNumbers" classname="com.entel.tests.TC_DisplayAllUserAccount" time="45.149"/>
+  <testcase name="equipoPageValidation" classname="com.entel.tests.TC_EquipoPageValidation" time="61.101"/>
+  <testcase name="myBallotValidation" classname="com.entel.tests.TC_MyBallotValidation" time="70.284"/>
+  <testcase name="myPlanValidation" classname="com.entel.tests.TC_MyPlanValidation" time="71.281"/>
+  <testcase name="recargarPageValidation" classname="com.entel.tests.TC_RecargarPageValidation" time="60.031"/>
+  <testcase name="roamingPageValidation" classname="com.entel.tests.TC_RoamingPageValidation" time="89.032"/>
+  <testcase name="validCredentialsLogintest" classname="com.entel.tests.TC_ValidLoginTest" time="34.708"/>
+  <testcase name="inValidCredentialsLogintest" classname="com.entel.tests.TC_InValidLoginTest" time="41.31"/>
+  <testcase name="bolsasPageValidation" classname="com.entel.tests.TC_BolsasPageValidation" time="81.442"/>
+  <testcase name="userSpecificLinks" classname="com.entel.tests.TC_UserSpecificLinksValidation" time="65.095"/>
 </testsuite>

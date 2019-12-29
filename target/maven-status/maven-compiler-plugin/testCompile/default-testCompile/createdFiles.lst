@@ -7,10 +7,12 @@ com\entel\tests\TC_MyBallotValidation.class
 com\entel\tests\TC_MyPlanValidation.class
 com\entel\pageInterface\IMiPlan.class
 com\entel\tests\TC_DisplayAllUserAccount.class
+com\entel\tests\TC_UserSpecificLinksValidation.class
 com\entel\pages\LoginPage.class
 com\entel\utilities\Reporting.class
 com\entel\pageInterface\IConfiguracionPage.class
 com\entel\tests\TC_ConsumoPageValidation.class
+com\entel\pages\BolsasPage.class
 com\entel\pages\ConfiguracionPage.class
 com\entel\pages\HomePage$Profile.class
 com\entel\utilities\XLUtils.class
@@ -18,6 +20,7 @@ com\entel\pages\MiBoletaPage.class
 com\entel\pageInterface\IConsumoPage.class
 com\entel\pages\MiPlanPage.class
 com\entel\tests\TC_RoamingPageValidation.class
+com\entel\pageInterface\IBolsasPage.class
 com\entel\pages\ConsumoPage.class
 com\entel\pages\AbstractBasePage.class
 com\entel\tests\TC_InValidLoginTest.class
@@ -25,6 +28,7 @@ com\entel\utilities\ReadConfig.class
 com\entel\pages\HomePage$EntelLeftNavLinks.class
 com\entel\pages\EquipoPage.class
 com\entel\pageInterface\ILoginPage.class
+com\entel\tests\TC_BolsasPageValidation.class
 com\entel\pageInterface\IHomePage$ILeftNavLinks.class
 com\entel\pageInterface\IEquipoPage.class
 com\entel\pageInterface\IHomePage.class

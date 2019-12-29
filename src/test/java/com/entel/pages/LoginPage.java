@@ -32,6 +32,7 @@ public class LoginPage extends AbstractBasePage implements ILoginPage {
 
 	public void clickOnLogIn() {
 		clickAnElement(loginLink);
+		sleep(2);
 	}
 
 	

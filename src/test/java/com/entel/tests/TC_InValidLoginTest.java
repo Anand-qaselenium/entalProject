@@ -25,7 +25,7 @@ public class TC_InValidLoginTest extends BaseClass {
 		
 		
 		logger.info("Invalid Phone number check");
-		lf.setPhoneNumber("934056822");
+		lf.setPhoneNumber("111111111");
 		lf.setRUTNum(rut);
 		lf.setPassword(password);
 		logger.info("Populating Login credentials - SUCCESSFUL");

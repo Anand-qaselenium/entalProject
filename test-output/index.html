@@ -91,7 +91,7 @@
               <div class="suite-section-content">
                 <ul>
                   <li>
-                    <span class="method-stats">1 method,   1 passed</span>
+                    <span class="method-stats">2 methods,   2 passed</span>
                   </li>
                   <li>
                     <span class="method-list-title passed">Passed methods</span>
@@ -102,7 +102,12 @@
                     <div class="method-list-content passed suite-entelProject">
                       <span>
                         <img src="passed.png" width="3%"/>
-                        <a href="#" panel-name="suite-entelProject" title="com.entel.tests.TC_BolsasPageValidation" class="method navigator-link" hash-for-method="bolsasPageValidation">bolsasPageValidation</a> <!-- method navigator-link -->
+                        <a href="#" panel-name="suite-entelProject" title="com.entel.tests.TC_ConsumoPageValidation" class="method navigator-link" hash-for-method="consumoPageValidation">consumoPageValidation</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-entelProject" title="com.entel.tests.TC_MyPlanValidation" class="method navigator-link" hash-for-method="myPlanValidation">myPlanValidation</a> <!-- method navigator-link -->
                       </span>
                       <br/>
                     </div> <!-- method-list-content passed suite-entelProject -->
@@ -120,14 +125,29 @@
           <div class="suite-entelProject-class-passed">
             <div class="main-panel-header rounded-window-top">
               <img src="passed.png"/>
-              <span class="class-name">com.entel.tests.TC_BolsasPageValidation</span>
+              <span class="class-name">com.entel.tests.TC_ConsumoPageValidation</span>
             </div> <!-- main-panel-header rounded-window-top -->
             <div class="main-panel-content rounded-window-bottom">
               <div class="method">
                 <div class="method-content">
-                  <a name="bolsasPageValidation">
-                  </a> <!-- bolsasPageValidation -->
-                  <span class="method-name">bolsasPageValidation</span>
+                  <a name="consumoPageValidation">
+                  </a> <!-- consumoPageValidation -->
+                  <span class="method-name">consumoPageValidation</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-entelProject-class-passed -->
+          <div class="suite-entelProject-class-passed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="passed.png"/>
+              <span class="class-name">com.entel.tests.TC_MyPlanValidation</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="myPlanValidation">
+                  </a> <!-- myPlanValidation -->
+                  <span class="method-name">myPlanValidation</span>
                 </div> <!-- method-content -->
               </div> <!-- method -->
             </div> <!-- main-panel-content rounded-window-bottom -->
@@ -148,7 +168,8 @@
   &lt;test thread-count=&quot;5&quot; name=&quot;Tests&quot;&gt;
     &lt;parameter name=&quot;browser&quot; value=&quot;chrome&quot;/&gt;
     &lt;classes&gt;
-      &lt;class name=&quot;com.entel.tests.TC_BolsasPageValidation&quot;/&gt;
+      &lt;class name=&quot;com.entel.tests.TC_ConsumoPageValidation&quot;/&gt;
+      &lt;class name=&quot;com.entel.tests.TC_MyPlanValidation&quot;/&gt;
     &lt;/classes&gt;
   &lt;/test&gt; &lt;!-- Tests --&gt;
 &lt;/suite&gt; &lt;!-- entelProject --&gt;
@@ -162,7 +183,7 @@
           <div class="main-panel-content rounded-window-bottom">
             <ul>
               <li>
-                <span class="test-name">Tests (1 class)</span>
+                <span class="test-name">Tests (2 classes)</span>
               </li>
             </ul>
           </div> <!-- main-panel-content rounded-window-bottom -->
@@ -188,11 +209,15 @@ data.addColumn('number', 'Number');
 data.addColumn('string', 'Method');
 data.addColumn('string', 'Class');
 data.addColumn('number', 'Time (ms)');
-data.addRows(1);
+data.addRows(2);
 data.setCell(0, 0, 0)
-data.setCell(0, 1, 'bolsasPageValidation')
-data.setCell(0, 2, 'com.entel.tests.TC_BolsasPageValidation')
-data.setCell(0, 3, 71254);
+data.setCell(0, 1, 'myPlanValidation')
+data.setCell(0, 2, 'com.entel.tests.TC_MyPlanValidation')
+data.setCell(0, 3, 60359);
+data.setCell(1, 0, 1)
+data.setCell(1, 1, 'consumoPageValidation')
+data.setCell(1, 2, 'com.entel.tests.TC_ConsumoPageValidation')
+data.setCell(1, 3, 53219);
 window.suiteTableData['entelProject']= { tableData: data, tableDiv: 'times-div-entelProject'}
 return data;
 }
@@ -223,18 +248,33 @@ return data;
           </div> <!-- main-panel-header rounded-window-top -->
           <div class="main-panel-content rounded-window-bottom">
             <div class="chronological-class">
-              <div class="chronological-class-name">com.entel.tests.TC_BolsasPageValidation</div> <!-- chronological-class-name -->
+              <div class="chronological-class-name">com.entel.tests.TC_ConsumoPageValidation</div> <!-- chronological-class-name -->
               <div class="configuration-class before">
                 <span class="method-name">launch(chrome)</span>
                 <span class="method-start">0 ms</span>
               </div> <!-- configuration-class before -->
               <div class="test-method">
-                <span class="method-name">bolsasPageValidation</span>
-                <span class="method-start">13781 ms</span>
+                <span class="method-name">consumoPageValidation</span>
+                <span class="method-start">8448 ms</span>
               </div> <!-- test-method -->
               <div class="configuration-class after">
                 <span class="method-name">tearDown</span>
-                <span class="method-start">85065 ms</span>
+                <span class="method-start">61704 ms</span>
+              </div> <!-- configuration-class after -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.entel.tests.TC_MyPlanValidation</div> <!-- chronological-class-name -->
+              <div class="configuration-class before">
+                <span class="method-name">launch(chrome)</span>
+                <span class="method-start">63786 ms</span>
+              </div> <!-- configuration-class before -->
+              <div class="test-method">
+                <span class="method-name">myPlanValidation</span>
+                <span class="method-start">71500 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-class after">
+                <span class="method-name">tearDown</span>
+                <span class="method-start">131860 ms</span>
               </div> <!-- configuration-class after -->
           </div> <!-- main-panel-content rounded-window-bottom -->
         </div> <!-- panel -->

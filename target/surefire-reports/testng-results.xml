@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="10" passed="10" failed="0" skipped="0">
+<testng-results ignored="0" total="13" passed="13" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2019-12-16T18:15:37Z" name="entelProject" finished-at="2019-12-16T18:26:22Z" duration-ms="645008">
+  <suite started-at="2019-12-29T15:22:58Z" name="entelProject" finished-at="2019-12-29T15:39:10Z" duration-ms="971388">
     <groups>
     </groups>
-    <test started-at="2019-12-16T18:15:37Z" name="Tests" finished-at="2019-12-16T18:26:22Z" duration-ms="645008">
+    <test started-at="2019-12-29T15:22:58Z" name="Tests" finished-at="2019-12-29T15:39:10Z" duration-ms="971388">
       <class name="com.entel.tests.TC_RoamingPageValidation">
-        <test-method is-config="true" signature="launch(java.lang.String)[pri:0, instance:com.entel.tests.TC_RoamingPageValidation@2f9f7dcf]" started-at="2019-12-16T18:24:25Z" name="launch" finished-at="2019-12-16T18:24:32Z" duration-ms="7086" status="PASS">
+        <test-method is-config="true" signature="launch(java.lang.String)[pri:0, instance:com.entel.tests.TC_RoamingPageValidation@6cf0e0ba]" started-at="2019-12-29T15:33:03Z" name="launch" finished-at="2019-12-29T15:33:14Z" duration-ms="10871" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -18,38 +18,17 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- launch -->
-        <test-method signature="roamingPageValidation()[pri:0, instance:com.entel.tests.TC_RoamingPageValidation@2f9f7dcf]" started-at="2019-12-16T18:24:32Z" name="roamingPageValidation" finished-at="2019-12-16T18:25:34Z" duration-ms="62183" status="PASS">
+        <test-method signature="roamingPageValidation()[pri:0, instance:com.entel.tests.TC_RoamingPageValidation@6cf0e0ba]" started-at="2019-12-29T15:33:14Z" name="roamingPageValidation" finished-at="2019-12-29T15:34:43Z" duration-ms="89032" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- roamingPageValidation -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.entel.tests.TC_RoamingPageValidation@2f9f7dcf]" started-at="2019-12-16T18:25:34Z" name="tearDown" finished-at="2019-12-16T18:25:36Z" duration-ms="2088" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.entel.tests.TC_RoamingPageValidation@6cf0e0ba]" started-at="2019-12-29T15:34:43Z" name="tearDown" finished-at="2019-12-29T15:34:45Z" duration-ms="2106" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- com.entel.tests.TC_RoamingPageValidation -->
-      <class name="com.entel.tests.TC_ConfiguracionPageValidation">
-        <test-method is-config="true" signature="launch(java.lang.String)[pri:0, instance:com.entel.tests.TC_ConfiguracionPageValidation@1b7cc17c]" started-at="2019-12-16T18:16:45Z" name="launch" finished-at="2019-12-16T18:16:53Z" duration-ms="8060" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[chrome]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- launch -->
-        <test-method signature="configuracionPageValidation()[pri:0, instance:com.entel.tests.TC_ConfiguracionPageValidation@1b7cc17c]" started-at="2019-12-16T18:16:53Z" name="configuracionPageValidation" finished-at="2019-12-16T18:17:51Z" duration-ms="57847" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- configuracionPageValidation -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.entel.tests.TC_ConfiguracionPageValidation@1b7cc17c]" started-at="2019-12-16T18:17:51Z" name="tearDown" finished-at="2019-12-16T18:17:53Z" duration-ms="2093" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- tearDown -->
-      </class> <!-- com.entel.tests.TC_ConfiguracionPageValidation -->
       <class name="com.entel.tests.TC_EquipoPageValidation">
-        <test-method is-config="true" signature="launch(java.lang.String)[pri:0, instance:com.entel.tests.TC_EquipoPageValidation@67c27493]" started-at="2019-12-16T18:19:53Z" name="launch" finished-at="2019-12-16T18:19:59Z" duration-ms="5977" status="PASS">
+        <test-method is-config="true" signature="launch(java.lang.String)[pri:0, instance:com.entel.tests.TC_EquipoPageValidation@35e2d654]" started-at="2019-12-29T15:27:46Z" name="launch" finished-at="2019-12-29T15:27:56Z" duration-ms="9969" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -60,17 +39,17 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- launch -->
-        <test-method signature="equipoPageValidation()[pri:0, instance:com.entel.tests.TC_EquipoPageValidation@67c27493]" started-at="2019-12-16T18:19:59Z" name="equipoPageValidation" finished-at="2019-12-16T18:20:57Z" duration-ms="57711" status="PASS">
+        <test-method signature="equipoPageValidation()[pri:0, instance:com.entel.tests.TC_EquipoPageValidation@35e2d654]" started-at="2019-12-29T15:27:56Z" name="equipoPageValidation" finished-at="2019-12-29T15:28:57Z" duration-ms="61100" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- equipoPageValidation -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.entel.tests.TC_EquipoPageValidation@67c27493]" started-at="2019-12-16T18:20:57Z" name="tearDown" finished-at="2019-12-16T18:20:59Z" duration-ms="2352" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.entel.tests.TC_EquipoPageValidation@35e2d654]" started-at="2019-12-29T15:28:57Z" name="tearDown" finished-at="2019-12-29T15:28:59Z" duration-ms="2108" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- com.entel.tests.TC_EquipoPageValidation -->
       <class name="com.entel.tests.TC_RecargarPageValidation">
-        <test-method is-config="true" signature="launch(java.lang.String)[pri:0, instance:com.entel.tests.TC_RecargarPageValidation@5b8dfcc1]" started-at="2019-12-16T18:23:22Z" name="launch" finished-at="2019-12-16T18:23:29Z" duration-ms="7078" status="PASS">
+        <test-method is-config="true" signature="launch(java.lang.String)[pri:0, instance:com.entel.tests.TC_RecargarPageValidation@4f83df68]" started-at="2019-12-29T15:31:47Z" name="launch" finished-at="2019-12-29T15:32:01Z" duration-ms="14227" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -81,38 +60,17 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- launch -->
-        <test-method signature="recargarPageValidation()[pri:0, instance:com.entel.tests.TC_RecargarPageValidation@5b8dfcc1]" started-at="2019-12-16T18:23:29Z" name="recargarPageValidation" finished-at="2019-12-16T18:24:23Z" duration-ms="53708" status="PASS">
+        <test-method signature="recargarPageValidation()[pri:0, instance:com.entel.tests.TC_RecargarPageValidation@4f83df68]" started-at="2019-12-29T15:32:01Z" name="recargarPageValidation" finished-at="2019-12-29T15:33:01Z" duration-ms="60031" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- recargarPageValidation -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.entel.tests.TC_RecargarPageValidation@5b8dfcc1]" started-at="2019-12-16T18:24:23Z" name="tearDown" finished-at="2019-12-16T18:24:25Z" duration-ms="2112" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.entel.tests.TC_RecargarPageValidation@4f83df68]" started-at="2019-12-29T15:33:01Z" name="tearDown" finished-at="2019-12-29T15:33:03Z" duration-ms="2114" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- com.entel.tests.TC_RecargarPageValidation -->
-      <class name="com.entel.tests.TC_ValidLoginTest">
-        <test-method is-config="true" signature="launch(java.lang.String)[pri:0, instance:com.entel.tests.TC_ValidLoginTest@747ddf94]" started-at="2019-12-16T18:25:36Z" name="launch" finished-at="2019-12-16T18:25:44Z" duration-ms="8210" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[chrome]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- launch -->
-        <test-method signature="validCredentialsLogintest()[pri:0, instance:com.entel.tests.TC_ValidLoginTest@747ddf94]" started-at="2019-12-16T18:25:44Z" name="validCredentialsLogintest" finished-at="2019-12-16T18:26:20Z" duration-ms="35268" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- validCredentialsLogintest -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.entel.tests.TC_ValidLoginTest@747ddf94]" started-at="2019-12-16T18:26:20Z" name="tearDown" finished-at="2019-12-16T18:26:22Z" duration-ms="2102" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- tearDown -->
-      </class> <!-- com.entel.tests.TC_ValidLoginTest -->
       <class name="com.entel.tests.TC_ConsumoPageValidation">
-        <test-method is-config="true" signature="launch(java.lang.String)[pri:0, instance:com.entel.tests.TC_ConsumoPageValidation@59662a0b]" started-at="2019-12-16T18:17:53Z" name="launch" finished-at="2019-12-16T18:18:01Z" duration-ms="7582" status="PASS">
+        <test-method is-config="true" signature="launch(java.lang.String)[pri:0, instance:com.entel.tests.TC_ConsumoPageValidation@2f9f7dcf]" started-at="2019-12-29T15:25:39Z" name="launch" finished-at="2019-12-29T15:25:47Z" duration-ms="7684" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -123,80 +81,17 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- launch -->
-        <test-method signature="consumoPageValidation()[pri:0, instance:com.entel.tests.TC_ConsumoPageValidation@59662a0b]" started-at="2019-12-16T18:18:01Z" name="consumoPageValidation" finished-at="2019-12-16T18:18:57Z" duration-ms="56618" status="PASS">
+        <test-method signature="consumoPageValidation()[pri:0, instance:com.entel.tests.TC_ConsumoPageValidation@2f9f7dcf]" started-at="2019-12-29T15:25:47Z" name="consumoPageValidation" finished-at="2019-12-29T15:26:46Z" duration-ms="58895" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- consumoPageValidation -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.entel.tests.TC_ConsumoPageValidation@59662a0b]" started-at="2019-12-16T18:18:57Z" name="tearDown" finished-at="2019-12-16T18:19:00Z" duration-ms="2376" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.entel.tests.TC_ConsumoPageValidation@2f9f7dcf]" started-at="2019-12-29T15:26:46Z" name="tearDown" finished-at="2019-12-29T15:26:48Z" duration-ms="2112" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- com.entel.tests.TC_ConsumoPageValidation -->
-      <class name="com.entel.tests.TC_DisplayAllUserAccount">
-        <test-method is-config="true" signature="launch(java.lang.String)[pri:0, instance:com.entel.tests.TC_DisplayAllUserAccount@77fbd92c]" started-at="2019-12-16T18:19:00Z" name="launch" finished-at="2019-12-16T18:19:08Z" duration-ms="7674" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[chrome]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- launch -->
-        <test-method signature="userAccountNumbers()[pri:0, instance:com.entel.tests.TC_DisplayAllUserAccount@77fbd92c]" started-at="2019-12-16T18:19:08Z" name="userAccountNumbers" finished-at="2019-12-16T18:19:51Z" duration-ms="43636" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- userAccountNumbers -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.entel.tests.TC_DisplayAllUserAccount@77fbd92c]" started-at="2019-12-16T18:19:51Z" name="tearDown" finished-at="2019-12-16T18:19:53Z" duration-ms="2111" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- tearDown -->
-      </class> <!-- com.entel.tests.TC_DisplayAllUserAccount -->
-      <class name="com.entel.tests.TC_MyPlanValidation">
-        <test-method is-config="true" signature="launch(java.lang.String)[pri:0, instance:com.entel.tests.TC_MyPlanValidation@72967906]" started-at="2019-12-16T18:22:06Z" name="launch" finished-at="2019-12-16T18:22:15Z" duration-ms="8776" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[chrome]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- launch -->
-        <test-method signature="myPlanValidation()[pri:0, instance:com.entel.tests.TC_MyPlanValidation@72967906]" started-at="2019-12-16T18:22:15Z" name="myPlanValidation" finished-at="2019-12-16T18:23:20Z" duration-ms="64990" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- myPlanValidation -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.entel.tests.TC_MyPlanValidation@72967906]" started-at="2019-12-16T18:23:20Z" name="tearDown" finished-at="2019-12-16T18:23:22Z" duration-ms="2084" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- tearDown -->
-      </class> <!-- com.entel.tests.TC_MyPlanValidation -->
-      <class name="com.entel.tests.TC_MyBallotValidation">
-        <test-method is-config="true" signature="launch(java.lang.String)[pri:0, instance:com.entel.tests.TC_MyBallotValidation@1a482e36]" started-at="2019-12-16T18:20:59Z" name="launch" finished-at="2019-12-16T18:21:07Z" duration-ms="7461" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[chrome]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- launch -->
-        <test-method signature="myBallotValidation()[pri:0, instance:com.entel.tests.TC_MyBallotValidation@1a482e36]" started-at="2019-12-16T18:21:07Z" name="myBallotValidation" finished-at="2019-12-16T18:22:04Z" duration-ms="57054" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- myBallotValidation -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.entel.tests.TC_MyBallotValidation@1a482e36]" started-at="2019-12-16T18:22:04Z" name="tearDown" finished-at="2019-12-16T18:22:06Z" duration-ms="2350" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- tearDown -->
-      </class> <!-- com.entel.tests.TC_MyBallotValidation -->
       <class name="com.entel.tests.TC_BeneficiousEntelPageValidation">
-        <test-method is-config="true" signature="launch(java.lang.String)[pri:0, instance:com.entel.tests.TC_BeneficiousEntelPageValidation@4efbca5a]" started-at="2019-12-16T18:15:37Z" name="launch" finished-at="2019-12-16T18:15:45Z" duration-ms="7792" status="PASS">
+        <test-method is-config="true" signature="launch(java.lang.String)[pri:0, instance:com.entel.tests.TC_BeneficiousEntelPageValidation@72967906]" started-at="2019-12-29T15:22:59Z" name="launch" finished-at="2019-12-29T15:23:15Z" duration-ms="16065" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -207,15 +102,183 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- launch -->
-        <test-method signature="beneficiousEntelPageValidation()[pri:0, instance:com.entel.tests.TC_BeneficiousEntelPageValidation@4efbca5a]" started-at="2019-12-16T18:15:45Z" name="beneficiousEntelPageValidation" finished-at="2019-12-16T18:16:43Z" duration-ms="58116" status="PASS">
+        <test-method signature="beneficiousEntelPageValidation()[pri:0, instance:com.entel.tests.TC_BeneficiousEntelPageValidation@72967906]" started-at="2019-12-29T15:23:15Z" name="beneficiousEntelPageValidation" finished-at="2019-12-29T15:24:26Z" duration-ms="71590" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beneficiousEntelPageValidation -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.entel.tests.TC_BeneficiousEntelPageValidation@4efbca5a]" started-at="2019-12-16T18:16:43Z" name="tearDown" finished-at="2019-12-16T18:16:45Z" duration-ms="2323" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.entel.tests.TC_BeneficiousEntelPageValidation@72967906]" started-at="2019-12-29T15:24:26Z" name="tearDown" finished-at="2019-12-29T15:24:29Z" duration-ms="2359" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- com.entel.tests.TC_BeneficiousEntelPageValidation -->
+      <class name="com.entel.tests.TC_InValidLoginTest">
+        <test-method is-config="true" signature="launch(java.lang.String)[pri:0, instance:com.entel.tests.TC_InValidLoginTest@130d63be]" started-at="2019-12-29T15:35:30Z" name="launch" finished-at="2019-12-29T15:35:38Z" duration-ms="7941" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method signature="inValidCredentialsLogintest()[pri:0, instance:com.entel.tests.TC_InValidLoginTest@130d63be]" started-at="2019-12-29T15:35:38Z" name="inValidCredentialsLogintest" finished-at="2019-12-29T15:36:19Z" duration-ms="41309" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- inValidCredentialsLogintest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.entel.tests.TC_InValidLoginTest@130d63be]" started-at="2019-12-29T15:36:19Z" name="tearDown" finished-at="2019-12-29T15:36:21Z" duration-ms="2133" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.entel.tests.TC_InValidLoginTest -->
+      <class name="com.entel.tests.TC_ConfiguracionPageValidation">
+        <test-method is-config="true" signature="launch(java.lang.String)[pri:0, instance:com.entel.tests.TC_ConfiguracionPageValidation@5b8dfcc1]" started-at="2019-12-29T15:24:29Z" name="launch" finished-at="2019-12-29T15:24:37Z" duration-ms="8798" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method signature="configuracionPageValidation()[pri:0, instance:com.entel.tests.TC_ConfiguracionPageValidation@5b8dfcc1]" started-at="2019-12-29T15:24:37Z" name="configuracionPageValidation" finished-at="2019-12-29T15:25:37Z" duration-ms="59664" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configuracionPageValidation -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.entel.tests.TC_ConfiguracionPageValidation@5b8dfcc1]" started-at="2019-12-29T15:25:37Z" name="tearDown" finished-at="2019-12-29T15:25:39Z" duration-ms="2111" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.entel.tests.TC_ConfiguracionPageValidation -->
+      <class name="com.entel.tests.TC_BolsasPageValidation">
+        <test-method is-config="true" signature="launch(java.lang.String)[pri:0, instance:com.entel.tests.TC_BolsasPageValidation@42a48628]" started-at="2019-12-29T15:36:21Z" name="launch" finished-at="2019-12-29T15:36:33Z" duration-ms="12095" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method signature="bolsasPageValidation()[pri:0, instance:com.entel.tests.TC_BolsasPageValidation@42a48628]" started-at="2019-12-29T15:36:33Z" name="bolsasPageValidation" finished-at="2019-12-29T15:37:55Z" duration-ms="81442" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bolsasPageValidation -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.entel.tests.TC_BolsasPageValidation@42a48628]" started-at="2019-12-29T15:37:55Z" name="tearDown" finished-at="2019-12-29T15:37:57Z" duration-ms="2111" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.entel.tests.TC_BolsasPageValidation -->
+      <class name="com.entel.tests.TC_ValidLoginTest">
+        <test-method is-config="true" signature="launch(java.lang.String)[pri:0, instance:com.entel.tests.TC_ValidLoginTest@7d8995e]" started-at="2019-12-29T15:34:45Z" name="launch" finished-at="2019-12-29T15:34:53Z" duration-ms="8022" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method signature="validCredentialsLogintest()[pri:0, instance:com.entel.tests.TC_ValidLoginTest@7d8995e]" started-at="2019-12-29T15:34:53Z" name="validCredentialsLogintest" finished-at="2019-12-29T15:35:28Z" duration-ms="34708" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validCredentialsLogintest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.entel.tests.TC_ValidLoginTest@7d8995e]" started-at="2019-12-29T15:35:28Z" name="tearDown" finished-at="2019-12-29T15:35:30Z" duration-ms="2115" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.entel.tests.TC_ValidLoginTest -->
+      <class name="com.entel.tests.TC_UserSpecificLinksValidation">
+        <test-method is-config="true" signature="launch(java.lang.String)[pri:0, instance:com.entel.tests.TC_UserSpecificLinksValidation@293a5bf6]" started-at="2019-12-29T15:37:57Z" name="launch" finished-at="2019-12-29T15:38:04Z" duration-ms="7435" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method signature="userSpecificLinks()[pri:0, instance:com.entel.tests.TC_UserSpecificLinksValidation@293a5bf6]" started-at="2019-12-29T15:38:04Z" name="userSpecificLinks" finished-at="2019-12-29T15:39:10Z" duration-ms="65094" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userSpecificLinks -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.entel.tests.TC_UserSpecificLinksValidation@293a5bf6]" started-at="2019-12-29T15:39:10Z" name="tearDown" finished-at="2019-12-29T15:39:10Z" duration-ms="99" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.entel.tests.TC_UserSpecificLinksValidation -->
+      <class name="com.entel.tests.TC_DisplayAllUserAccount">
+        <test-method is-config="true" signature="launch(java.lang.String)[pri:0, instance:com.entel.tests.TC_DisplayAllUserAccount@747ddf94]" started-at="2019-12-29T15:26:48Z" name="launch" finished-at="2019-12-29T15:26:59Z" duration-ms="10741" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method signature="userAccountNumbers()[pri:0, instance:com.entel.tests.TC_DisplayAllUserAccount@747ddf94]" started-at="2019-12-29T15:26:59Z" name="userAccountNumbers" finished-at="2019-12-29T15:27:44Z" duration-ms="45149" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userAccountNumbers -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.entel.tests.TC_DisplayAllUserAccount@747ddf94]" started-at="2019-12-29T15:27:44Z" name="tearDown" finished-at="2019-12-29T15:27:46Z" duration-ms="2143" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.entel.tests.TC_DisplayAllUserAccount -->
+      <class name="com.entel.tests.TC_MyBallotValidation">
+        <test-method is-config="true" signature="launch(java.lang.String)[pri:0, instance:com.entel.tests.TC_MyBallotValidation@1bd4fdd]" started-at="2019-12-29T15:28:59Z" name="launch" finished-at="2019-12-29T15:29:10Z" duration-ms="11295" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method signature="myBallotValidation()[pri:0, instance:com.entel.tests.TC_MyBallotValidation@1bd4fdd]" started-at="2019-12-29T15:29:10Z" name="myBallotValidation" finished-at="2019-12-29T15:30:21Z" duration-ms="70283" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myBallotValidation -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.entel.tests.TC_MyBallotValidation@1bd4fdd]" started-at="2019-12-29T15:30:21Z" name="tearDown" finished-at="2019-12-29T15:30:23Z" duration-ms="2125" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.entel.tests.TC_MyBallotValidation -->
+      <class name="com.entel.tests.TC_MyPlanValidation">
+        <test-method is-config="true" signature="launch(java.lang.String)[pri:0, instance:com.entel.tests.TC_MyPlanValidation@55183b20]" started-at="2019-12-29T15:30:23Z" name="launch" finished-at="2019-12-29T15:30:35Z" duration-ms="12609" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method signature="myPlanValidation()[pri:0, instance:com.entel.tests.TC_MyPlanValidation@55183b20]" started-at="2019-12-29T15:30:35Z" name="myPlanValidation" finished-at="2019-12-29T15:31:47Z" duration-ms="71281" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myPlanValidation -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.entel.tests.TC_MyPlanValidation@55183b20]" started-at="2019-12-29T15:31:47Z" name="tearDown" finished-at="2019-12-29T15:31:47Z" duration-ms="97" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.entel.tests.TC_MyPlanValidation -->
     </test> <!-- Tests -->
   </suite> <!-- entelProject -->
 </testng-results>

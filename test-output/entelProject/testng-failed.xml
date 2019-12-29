@@ -7,13 +7,20 @@
   <test thread-count="5" name="Tests(failed)">
     <parameter name="browser" value="chrome"/>
     <classes>
-      <class name="com.entel.tests.TC_BeneficiousEntelPageValidation">
+      <class name="com.entel.tests.TC_ConsumoPageValidation">
         <methods>
+          <include name="consumoPageValidation"/>
           <include name="launch"/>
-          <include name="userAccountNumbers"/>
           <include name="tearDown"/>
         </methods>
-      </class> <!-- com.entel.tests.TC_BeneficiousEntelPageValidation -->
+      </class> <!-- com.entel.tests.TC_ConsumoPageValidation -->
+      <class name="com.entel.tests.TC_MyPlanValidation">
+        <methods>
+          <include name="launch"/>
+          <include name="myPlanValidation"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.entel.tests.TC_MyPlanValidation -->
     </classes>
   </test> <!-- Tests(failed) -->
 </suite> <!-- Failed suite [entelProject] -->

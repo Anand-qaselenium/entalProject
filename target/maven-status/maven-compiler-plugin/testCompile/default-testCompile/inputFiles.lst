@@ -9,9 +9,11 @@ E:\Java_Project\Project\entelmiportal\entalProject\src\test\java\com\entel\pages
 E:\Java_Project\Project\entelmiportal\entalProject\src\test\java\com\entel\tests\BaseClass.java
 E:\Java_Project\Project\entelmiportal\entalProject\src\test\java\com\entel\pageInterface\IMiBoletaPage.java
 E:\Java_Project\Project\entelmiportal\entalProject\src\test\java\com\entel\pages\RoamingPage.java
+E:\Java_Project\Project\entelmiportal\entalProject\src\test\java\com\entel\tests\TC_BolsasPageValidation.java
 E:\Java_Project\Project\entelmiportal\entalProject\src\test\java\com\entel\pages\LoginPage.java
 E:\Java_Project\Project\entelmiportal\entalProject\src\test\java\com\entel\tests\TC_MyPlanValidation.java
 E:\Java_Project\Project\entelmiportal\entalProject\src\test\java\com\entel\pageInterface\IConsumoPage.java
+E:\Java_Project\Project\entelmiportal\entalProject\src\test\java\com\entel\pages\BolsasPage.java
 E:\Java_Project\Project\entelmiportal\entalProject\src\test\java\com\entel\tests\TC_DisplayAllUserAccount.java
 E:\Java_Project\Project\entelmiportal\entalProject\src\test\java\com\entel\pages\BeneficiosEntelPage.java
 E:\Java_Project\Project\entelmiportal\entalProject\src\test\java\com\entel\tests\TC_BeneficiousEntelPageValidation.java
@@ -31,8 +33,10 @@ E:\Java_Project\Project\entelmiportal\entalProject\src\test\java\com\entel\pages
 E:\Java_Project\Project\entelmiportal\entalProject\src\test\java\com\entel\tests\TC_MyBallotValidation.java
 E:\Java_Project\Project\entelmiportal\entalProject\src\test\java\com\entel\utilities\ReadConfig.java
 E:\Java_Project\Project\entelmiportal\entalProject\src\test\java\com\entel\utilities\XLUtils.java
+E:\Java_Project\Project\entelmiportal\entalProject\src\test\java\com\entel\pageInterface\IBolsasPage.java
 E:\Java_Project\Project\entelmiportal\entalProject\src\test\java\com\entel\tests\TC_ValidLoginTest.java
 E:\Java_Project\Project\entelmiportal\entalProject\src\test\java\com\entel\pages\MiPlanPage.java
+E:\Java_Project\Project\entelmiportal\entalProject\src\test\java\com\entel\tests\TC_UserSpecificLinksValidation.java
 E:\Java_Project\Project\entelmiportal\entalProject\src\test\java\com\entel\tests\TC_ConfiguracionPageValidation.java
 E:\Java_Project\Project\entelmiportal\entalProject\src\test\java\com\entel\pageInterface\IBeneficiosEntelPage.java
 E:\Java_Project\Project\entelmiportal\entalProject\src\test\java\com\entel\pageInterface\ILoginPage.java

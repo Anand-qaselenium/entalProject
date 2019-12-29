@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2019-12-18T18:40:23Z" name="entelProject" finished-at="2019-12-18T18:41:51Z" duration-ms="87582">
+  <suite started-at="2019-12-22T07:44:37Z" name="entelProject" finished-at="2019-12-22T07:46:51Z" duration-ms="134336">
     <groups>
     </groups>
-    <test started-at="2019-12-18T18:40:23Z" name="Tests" finished-at="2019-12-18T18:41:51Z" duration-ms="87582">
-      <class name="com.entel.tests.TC_BolsasPageValidation">
-        <test-method is-config="true" signature="launch(java.lang.String)[pri:0, instance:com.entel.tests.TC_BolsasPageValidation@3098cf3b]" started-at="2019-12-18T18:40:24Z" name="launch" finished-at="2019-12-18T18:40:37Z" duration-ms="13777" status="PASS">
+    <test started-at="2019-12-22T07:44:37Z" name="Tests" finished-at="2019-12-22T07:46:51Z" duration-ms="134336">
+      <class name="com.entel.tests.TC_ConsumoPageValidation">
+        <test-method is-config="true" signature="launch(java.lang.String)[pri:0, instance:com.entel.tests.TC_ConsumoPageValidation@3098cf3b]" started-at="2019-12-22T07:44:37Z" name="launch" finished-at="2019-12-22T07:44:45Z" duration-ms="8444" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -18,15 +18,36 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- launch -->
-        <test-method signature="bolsasPageValidation()[pri:0, instance:com.entel.tests.TC_BolsasPageValidation@3098cf3b]" started-at="2019-12-18T18:40:37Z" name="bolsasPageValidation" finished-at="2019-12-18T18:41:49Z" duration-ms="71254" status="PASS">
+        <test-method signature="consumoPageValidation()[pri:0, instance:com.entel.tests.TC_ConsumoPageValidation@3098cf3b]" started-at="2019-12-22T07:44:45Z" name="consumoPageValidation" finished-at="2019-12-22T07:45:39Z" duration-ms="53219" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- bolsasPageValidation -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.entel.tests.TC_BolsasPageValidation@3098cf3b]" started-at="2019-12-18T18:41:49Z" name="tearDown" finished-at="2019-12-18T18:41:51Z" duration-ms="2377" status="PASS">
+        </test-method> <!-- consumoPageValidation -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.entel.tests.TC_ConsumoPageValidation@3098cf3b]" started-at="2019-12-22T07:45:39Z" name="tearDown" finished-at="2019-12-22T07:45:41Z" duration-ms="2078" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-      </class> <!-- com.entel.tests.TC_BolsasPageValidation -->
+      </class> <!-- com.entel.tests.TC_ConsumoPageValidation -->
+      <class name="com.entel.tests.TC_MyPlanValidation">
+        <test-method is-config="true" signature="launch(java.lang.String)[pri:0, instance:com.entel.tests.TC_MyPlanValidation@610f7aa]" started-at="2019-12-22T07:45:41Z" name="launch" finished-at="2019-12-22T07:45:48Z" duration-ms="7713" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method signature="myPlanValidation()[pri:0, instance:com.entel.tests.TC_MyPlanValidation@610f7aa]" started-at="2019-12-22T07:45:48Z" name="myPlanValidation" finished-at="2019-12-22T07:46:49Z" duration-ms="60359" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myPlanValidation -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.entel.tests.TC_MyPlanValidation@610f7aa]" started-at="2019-12-22T07:46:49Z" name="tearDown" finished-at="2019-12-22T07:46:51Z" duration-ms="2317" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.entel.tests.TC_MyPlanValidation -->
     </test> <!-- Tests -->
   </suite> <!-- entelProject -->
 </testng-results>
